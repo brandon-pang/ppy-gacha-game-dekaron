@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_loading_content_bg" itemID="5bf49ed6-00002df2" lastModified="1542758629">
+  <timeline>
+    <DOMTimeline name="Mc_loading_content_bg">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="300" objectHeight="200" x="312.05" y="201.05" selected="true" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
+                  <matrix>
+                    <Matrix a="0.88702392578125" d="0.820892333984375" tx="-276.8" ty="-165.05"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#CCCCCC"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main_frame/Mc_signin_ani" itemID="5be4a229-00000811" lastModified="1541710394">
+  <timeline>
+    <DOMTimeline name="Mc_signin_ani">
+      <layers>
+        <DOMLayer name="mc_sign_in_txts" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_sign_txts" name="mc_sign_in_txts">
+                  <matrix>
+                    <Matrix tx="17" ty="109.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="226" y="87.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mc_sign_icon" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_sign_icon" name="mc_sign_icon">
+                  <matrix>
+                    <Matrix tx="213.4" ty="33"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.6" y="32.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mc_sign_line" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_sign_line">
+                  <matrix>
+                    <Matrix tx="118.7" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.3" y="0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn_sign_in" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Btn_sign_in" name="btn_sign_in" symbolType="button">
+                  <matrix>
+                    <Matrix tx="101" ty="330.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mc_warning_bg" color="#FF0000" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_warning_bg" name="mc_warning_bg" selected="true">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

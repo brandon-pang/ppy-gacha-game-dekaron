@@ -1,0 +1,416 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_game_assets/Mc_box_item_detail" itemID="5bf228cc-00002292" lastModified="1542835287" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="Mc_box_item_detail" currentFrame="9">
+      <layers>
+        <DOMLayer name="Layer_19" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="14" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pageNumCont" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_pagenum" name="pageNumCont" centerPoint3DX="267" centerPoint3DY="955.1">
+                  <matrix>
+                    <Matrix tx="244" ty="946.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="8.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_pagenum" name="pageNumCont" centerPoint3DX="267" centerPoint3DY="354.5">
+                  <matrix>
+                    <Matrix tx="244" ty="346"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="8.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_pagenum" name="pageNumCont" centerPoint3DX="267" centerPoint3DY="354.5">
+                  <matrix>
+                    <Matrix tx="244" ty="346"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="8.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pageClickCont5" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_page_no_container1" name="pageClickCont5">
+                  <matrix>
+                    <Matrix tx="240" ty="972.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_page_no_container1" name="pageClickCont5" centerPoint3DX="267.5" centerPoint3DY="376.1">
+                  <matrix>
+                    <Matrix tx="240" ty="372"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_page_no_container1" name="pageClickCont5" centerPoint3DX="267.5" centerPoint3DY="376.1">
+                  <matrix>
+                    <Matrix tx="240" ty="372"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pageClickCont3" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_page_no_container" name="pageClickCont3">
+                  <matrix>
+                    <Matrix tx="252" ty="972.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_page_no_container" name="pageClickCont3" centerPoint3DX="267.5" centerPoint3DY="376.1">
+                  <matrix>
+                    <Matrix tx="252" ty="372"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gameResult/Mc_page_no_container" name="pageClickCont3" centerPoint3DX="267.5" centerPoint3DY="376.1">
+                  <matrix>
+                    <Matrix tx="252" ty="372"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="result_containter5" color="#FF0000" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container5" name="result_containter5">
+                  <matrix>
+                    <Matrix ty="600.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container5" name="result_containter5" centerPoint3DX="2210.5" centerPoint3DY="182.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container5" name="result_containter5" centerPoint3DX="2210.5" centerPoint3DY="182.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="result_containter3" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container3" name="result_containter3" selected="true">
+                  <matrix>
+                    <Matrix ty="599.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container3" name="result_containter3" centerPoint3DX="1238.5" centerPoint3DY="181.55">
+                  <matrix>
+                    <Matrix ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container3" name="result_containter3" centerPoint3DX="1238.5" centerPoint3DY="181.55">
+                  <matrix>
+                    <Matrix ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="result_containter1" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container1" name="result_containter1" selected="true">
+                  <matrix>
+                    <Matrix ty="599.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container1" name="result_containter1" centerPoint3DX="266.5" centerPoint3DY="181.5">
+                  <matrix>
+                    <Matrix ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_result_container1" name="result_containter1" centerPoint3DX="266.5" centerPoint3DY="181.5">
+                  <matrix>
+                    <Matrix ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arrows" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_box_arrows" name="arrows">
+                  <matrix>
+                    <Matrix tx="-53" ty="783.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="320" y="20"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_box_arrows" name="arrows" selected="true" centerPoint3DX="267" centerPoint3DY="203">
+                  <matrix>
+                    <Matrix tx="-53" ty="183"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="320" y="20"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_box_arrows" name="arrows" centerPoint3DX="267" centerPoint3DY="203">
+                  <matrix>
+                    <Matrix tx="-53" ty="183"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="320" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btns" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_box_detail_btns" name="btns">
+                  <matrix>
+                    <Matrix tx="72" ty="997.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195.5" y="31"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_box_detail_btns" name="btns" centerPoint3DX="267.5" centerPoint3DY="438">
+                  <matrix>
+                    <Matrix tx="72" ty="407"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195.5" y="31"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_box_detail_btns" name="btns" centerPoint3DX="267.5" centerPoint3DY="428">
+                  <matrix>
+                    <Matrix tx="72" ty="397"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195.5" y="31"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

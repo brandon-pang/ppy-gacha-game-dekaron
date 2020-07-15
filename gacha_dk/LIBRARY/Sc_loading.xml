@@ -1,0 +1,181 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Sc_loading" itemID="5bf49cb8-00002dcd" lastModified="1542763325" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Sc_loading" currentFrame="16">
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();
+this.mc_loading.gotoAndPlay(0);]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();
+this.mc_loading.gotoAndPlay('start');]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="7" name="end" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="&amp;#016Mc_loading_content" name="mc_loading">
+                  <matrix>
+                    <Matrix tx="352.95" ty="248.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="82.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="&amp;#016Mc_loading_content" name="mc_loading" centerPoint3DX="486" centerPoint3DY="344.05">
+                  <matrix>
+                    <Matrix tx="352.95" ty="261.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="82.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="&amp;#016Mc_loading_content" name="mc_loading" centerPoint3DX="486" centerPoint3DY="332.05">
+                  <matrix>
+                    <Matrix tx="352.95" ty="249.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="82.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="&amp;#016Mc_loading_content" name="mc_loading" centerPoint3DX="486" centerPoint3DY="332.05">
+                  <matrix>
+                    <Matrix tx="352.95" ty="249.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="82.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="&amp;#016Mc_loading_content" name="mc_loading" centerPoint3DX="486" centerPoint3DY="341.05">
+                  <matrix>
+                    <Matrix tx="352.95" ty="258.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="82.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_bg">
+                  <transformationPoint>
+                    <Point x="486" y="331"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_bg" centerPoint3DX="486" centerPoint3DY="331">
+                  <transformationPoint>
+                    <Point x="486" y="331"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_bg" centerPoint3DX="486" centerPoint3DY="331">
+                  <transformationPoint>
+                    <Point x="486" y="331"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_bg" centerPoint3DX="486" centerPoint3DY="331">
+                  <transformationPoint>
+                    <Point x="486" y="331"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_bg" selected="true" centerPoint3DX="486" centerPoint3DY="331">
+                  <transformationPoint>
+                    <Point x="486" y="331"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

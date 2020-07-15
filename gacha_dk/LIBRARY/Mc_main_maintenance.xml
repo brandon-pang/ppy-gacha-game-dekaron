@@ -1,0 +1,97 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_main_maintenance" itemID="5be3ba86-000007ca" lastModified="1542054363" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Mc_main_maintenance" currentFrame="15">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="13" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_maintenance_ani" name="mc_maintenance_ani">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_maintenance_ani" name="mc_maintenance_ani" centerPoint3DX="243" centerPoint3DY="147">
+                  <matrix>
+                    <Matrix a="0.741500854492188" d="0.741500854492188" tx="62.85" ty="38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243" y="147.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_maintenance_ani" name="mc_maintenance_ani" centerPoint3DX="243" centerPoint3DY="147">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_maintenance_ani" name="mc_maintenance_ani" centerPoint3DX="243" centerPoint3DY="147">
+                  <matrix>
+                    <Matrix a="1.09877014160156" d="1.09877014160156" tx="-24" ty="-14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="242.95" y="146.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_maintenance_ani" name="mc_maintenance_ani" centerPoint3DX="243" centerPoint3DY="147">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

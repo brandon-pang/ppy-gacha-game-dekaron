@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_diamond" itemID="5bf38d0d-00002aba" lastModified="1542688708" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Mc_diamond" currentFrame="90">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="88" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.gotoAndPla('start');]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_diamond_ani">
+                  <transformationPoint>
+                    <Point x="95" y="107"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="43" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_diamond_ani" centerPoint3DX="95" centerPoint3DY="107">
+                  <transformationPoint>
+                    <Point x="95" y="107"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="45" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_diamond_ani" centerPoint3DX="94.95" centerPoint3DY="106.95">
+                  <matrix>
+                    <Matrix a="-0.97637939453125" b="0.212875366210938" c="-0.212875366210938" d="-0.97637939453125" tx="210.5" ty="191.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95" y="107"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.71"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_diamond_ani" centerPoint3DX="95" centerPoint3DY="107">
+                  <transformationPoint>
+                    <Point x="95" y="107"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

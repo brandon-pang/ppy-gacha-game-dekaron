@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="icon-help.svg/Layer 1/&amp;#060Group&amp;#062" itemID="5be20dd1-0000009b" lastModified="1541541329">
+  <timeline>
+    <DOMTimeline name="&amp;#060Group&amp;#062">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F8FF36"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!1 66|10 66!10 66|11 63!11 63[11 49 13 46!13 46|23 36!23 36[25 34 30 34!30 34[34 21 43 0!43 0[21 -1 0 8!0 8[4 34 1 66"/>
+                        <Edge cubics="!10 66(;11,66 11,64 11,63q10 66 11 63);"/>
+                        <Edge cubics="!11 63(;11,53 11,49 13,46q11 63Q11 49q13 46);"/>
+                        <Edge cubics="!13 46(;15,44 17,40 23,36q13 46Q23 36q23 36);"/>
+                        <Edge cubics="!23 36(;25,34 27,34 30,34q23 36Q25 34q30 34);"/>
+                        <Edge cubics="!30 34(;33,23 38,11 43,0q30 34Q34 21q43 0);"/>
+                        <Edge cubics="!43 0(;26,-1 11,3 0,8q43 0Q21 -1q0 8);"/>
+                        <Edge cubics="!0 8(;3,26 3,46 1,66q0 8Q4 34q1 66);"/>
+                        <Edge cubics="!1 66(;1,66 10,66 10,66q1 66 10 66);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F8FF36"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!86 54[92 39 92 38!92 38[94 29 88 21!88 21[63 73 52 92!52 92[53 94 57 95!57 95[61 96 62 94!62 94|64 92!64 92[73 75 86 58!86 58|86 54"/>
+                        <Edge cubics="!86 54(;90,44 98,33 88,21q86 54Q92 39q92 38Q94 29q88 21);"/>
+                        <Edge cubics="!88 21(;77,44 66,68 52,92q88 21Q63 73q52 92);"/>
+                        <Edge cubics="!52 92(;53,94 60,97 62,94q52 92Q53 94q57 95Q61 96q62 94);"/>
+                        <Edge cubics="!62 94(;62,94 64,92 64,92q62 94 64 92);"/>
+                        <Edge cubics="!64 92(;70,80 78,68 86,58q64 92Q73 75q86 58);"/>
+                        <Edge cubics="!86 58(;86,56 86,54 86,54q86 58 86 54);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

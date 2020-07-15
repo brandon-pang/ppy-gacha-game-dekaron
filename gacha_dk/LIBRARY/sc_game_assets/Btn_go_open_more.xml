@@ -1,0 +1,279 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_game_assets/Btn_go_open_more" itemID="5bf2296d-000022ad" symbolType="button" lastModified="1542774591">
+  <timeline>
+    <DOMTimeline name="Btn_go_open_more" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" fontRenderingMode="standard" width="112.05" height="21.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="52.5" ty="16.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>OPEN MORE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="21.1" size="16" bitmapSize="320" face="RobotoSlab-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" fontRenderingMode="standard" width="112.05" height="21.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="52.5" ty="16.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>OPEN MORE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="21.1" size="16" bitmapSize="320" face="RobotoSlab-Bold" fillColor="#FFCC00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" fontRenderingMode="standard" width="112.05" height="21.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="52.5" ty="16.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>OPEN MORE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="21.1" size="16" bitmapSize="320" face="RobotoSlab-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="28" ty="-1"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!190 0|372 287!372 287|287 287!287 287|190 137!190 137|190 0"/>
+                        <Edge cubics="!372 287(;372,287 287,287 287,287q372 287p287 287);"/>
+                        <Edge cubics="!190 137(;190,137 190,0 190,0q190 137p190 0);"/>
+                        <Edge cubics="!190 0(;190,0 372,287 372,287q190 0 372 287);"/>
+                        <Edge cubics="!287 287(;287,287 190,137 190,137q287 287 190 137);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!0 287|183 0!183 0|183 137!183 137|87 287!87 287|0 287"/>
+                        <Edge cubics="!183 0(;183,0 183,137 183,137q183 0p183 137);"/>
+                        <Edge cubics="!87 287(;87,287 0,287 0,287q87 287 0 287);"/>
+                        <Edge cubics="!0 287(;0,287 183,0 183,0q0 287 183 0);"/>
+                        <Edge cubics="!183 137(;183,137 87,287 87,287q183 137 87 287);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!183 580|0 294!0 294|87 294!87 294|183 445!183 445|183 580"/>
+                        <Edge cubics="!183 580(;183,580 0,294 0,294q183 580p0 294);"/>
+                        <Edge cubics="!0 294(;0,294 87,294 87,294q0 294p87 294);"/>
+                        <Edge cubics="!183 445(;183,445 183,580 183,580q183 445p183 580);"/>
+                        <Edge cubics="!87 294(;87,294 183,445 183,445q87 294 183 445);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!187 435|95 290!95 290|187 147!187 147|279 290!279 290|187 435"/>
+                        <Edge cubics="!187 435(;187,435 95,290 95,290q187 435 95 290);"/>
+                        <Edge cubics="!95 290(;95,290 187,147 187,147q95 290 187 147);"/>
+                        <Edge cubics="!187 147(;187,147 279,290 279,290q187 147 279 290);"/>
+                        <Edge cubics="!279 290(;279,290 187,435 187,435q279 290 187 435);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!372 294|190 580!190 580|190 445!190 445|287 294!287 294|372 294"/>
+                        <Edge cubics="!190 580(;190,580 190,445 190,445q190 580p190 445);"/>
+                        <Edge cubics="!287 294(;287,294 372,294 372,294q287 294p372 294);"/>
+                        <Edge cubics="!372 294(;372,294 190,580 190,580q372 294 190 580);"/>
+                        <Edge cubics="!190 445(;190,445 287,294 287,294q190 445 287 294);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="28" ty="-1"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!190 0|372 287!372 287|287 287!287 287|190 137!190 137|190 0"/>
+                        <Edge cubics="!372 287(;372,287 287,287 287,287q372 287p287 287);"/>
+                        <Edge cubics="!190 137(;190,137 190,0 190,0q190 137p190 0);"/>
+                        <Edge cubics="!190 0(;190,0 372,287 372,287q190 0 372 287);"/>
+                        <Edge cubics="!287 287(;287,287 190,137 190,137q287 287 190 137);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!0 287|183 0!183 0|183 137!183 137|87 287!87 287|0 287"/>
+                        <Edge cubics="!183 0(;183,0 183,137 183,137q183 0p183 137);"/>
+                        <Edge cubics="!87 287(;87,287 0,287 0,287q87 287 0 287);"/>
+                        <Edge cubics="!0 287(;0,287 183,0 183,0q0 287 183 0);"/>
+                        <Edge cubics="!183 137(;183,137 87,287 87,287q183 137 87 287);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!183 580|0 294!0 294|87 294!87 294|183 445!183 445|183 580"/>
+                        <Edge cubics="!183 580(;183,580 0,294 0,294q183 580p0 294);"/>
+                        <Edge cubics="!0 294(;0,294 87,294 87,294q0 294p87 294);"/>
+                        <Edge cubics="!183 445(;183,445 183,580 183,580q183 445p183 580);"/>
+                        <Edge cubics="!87 294(;87,294 183,445 183,445q87 294 183 445);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!187 435|95 290!95 290|187 147!187 147|279 290!279 290|187 435"/>
+                        <Edge cubics="!187 435(;187,435 95,290 95,290q187 435 95 290);"/>
+                        <Edge cubics="!95 290(;95,290 187,147 187,147q95 290 187 147);"/>
+                        <Edge cubics="!187 147(;187,147 279,290 279,290q187 147 279 290);"/>
+                        <Edge cubics="!279 290(;279,290 187,435 187,435q279 290 187 435);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="28" ty="13"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!372 294|190 580!190 580|190 445!190 445|287 294!287 294|372 294"/>
+                        <Edge cubics="!190 580(;190,580 190,445 190,445q190 580p190 445);"/>
+                        <Edge cubics="!287 294(;287,294 372,294 372,294q287 294p372 294);"/>
+                        <Edge cubics="!372 294(;372,294 190,580 190,580q372 294 190 580);"/>
+                        <Edge cubics="!190 445(;190,445 287,294 287,294q190 445 287 294);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/bottom-mystorage.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/bottom-mystorage.png"/>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/hoverstatement-bottom-openmore.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/bottom-mystorage.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

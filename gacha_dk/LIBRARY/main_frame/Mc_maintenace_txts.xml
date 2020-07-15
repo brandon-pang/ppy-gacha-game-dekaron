@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main_frame/Mc_maintenace_txts" itemID="5be3bada-000007d7" lastModified="1541709697">
+  <timeline>
+    <DOMTimeline name="Mc_maintenace_txts">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt_contents" selected="true" fontRenderingMode="standard" width="445" height="117.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="54.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Oh no! Karin shattered all the Krystals while carrying them to the server. Please wait while we clean up the mess…ahem, maintenance, we mean. &#xD;&#xD;We apologize for any inconvenience caused by this.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="16.4" size="14" bitmapSize="280" face="RobotoCondensed-Regular" fillColor="#4E350C"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_head" fontRenderingMode="standard" width="446" height="26.35" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="4" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SERVER MAINTENANCE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26.35" size="20" bitmapSize="400" face="RobotoSlab-Bold" fillColor="#4E350C"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,515 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Sc_recycle" itemID="5bf46e91-00002adc" lastModified="1542762179" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="Sc_recycle" currentFrame="76">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.mc_buy_key_title.txt.text='LEGENDARY KRYSTAL';]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="27" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="9" name="over" labelType="name" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.mc_recycle_hover_ani.gotoAndPlay('start');]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="40" duration="26" name="open" labelType="name" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.mc_recycle_hover_ani.gotoAndPlay(0);]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="67" duration="9" name="detail" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="76" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_6" color="#FF0000" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_recycle_box_item_detail" name="mc_recycle_box_item_detail">
+                  <matrix>
+                    <Matrix tx="220" ty="146"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_recycle_box_item_detail" name="mc_recycle_box_item_detail" centerPoint3DX="486.5" centerPoint3DY="985.6">
+                  <matrix>
+                    <Matrix tx="220" ty="156"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_recycle_box_item_detail" name="mc_recycle_box_item_detail" selected="true" centerPoint3DX="486.5" centerPoint3DY="975.6">
+                  <matrix>
+                    <Matrix tx="220" ty="146"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_buy_key_title" name="mc_buy_key_title" centerPoint3DX="479.95" centerPoint3DY="87.8">
+                  <matrix>
+                    <Matrix tx="114" ty="70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_buy_key_title" name="mc_buy_key_title" centerPoint3DX="479.95" centerPoint3DY="65.8">
+                  <matrix>
+                    <Matrix tx="114" ty="48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="65" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_buy_key_title" name="mc_buy_key_title" centerPoint3DX="479.95" centerPoint3DY="87.8">
+                  <matrix>
+                    <Matrix tx="114" ty="70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_7" color="#669900" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_tier_bg" name="mc_tier_bg">
+                  <matrix>
+                    <Matrix a="0.479965209960938" d="0.479965209960938" tx="454.6" ty="714"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_tier_bg" name="mc_tier_bg">
+                  <matrix>
+                    <Matrix a="0.479965209960938" d="0.479965209960938" tx="454.6" ty="303.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_tier_bg" name="mc_tier_bg" centerPoint3DX="478.55" centerPoint3DY="327">
+                  <matrix>
+                    <Matrix tx="428.55" ty="277"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_tier_bg" name="mc_tier_bg" centerPoint3DX="478.55" centerPoint3DY="327">
+                  <matrix>
+                    <Matrix a="1.25999450683594" d="1.25999450683594" tx="415.6" ty="264.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.05" y="50.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_tier_bg" name="mc_tier_bg" centerPoint3DX="478.55" centerPoint3DY="327">
+                  <matrix>
+                    <Matrix tx="428.55" ty="277"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_9" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="48" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_recycle_light_bg" name="mc_light_bg" centerPoint3DX="459" centerPoint3DY="760.95">
+                  <matrix>
+                    <Matrix a="0.589462280273438" d="0.589462280273438" tx="402.95" ty="697.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="10" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_recycle_light_bg" name="mc_light_bg" selected="true" centerPoint3DX="459" centerPoint3DY="350">
+                  <matrix>
+                    <Matrix a="0.736572265625" d="0.736572265625" tx="401.6" ty="254.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="103.7" y="94.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_recycle_light_bg" name="mc_light_bg" centerPoint3DX="459" centerPoint3DY="350">
+                  <matrix>
+                    <Matrix a="2.1513671875" d="2.1513671875" tx="254.8" ty="119.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="103.75" y="94.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="legend-anima1.png" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="40" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="legend-anima1.png">
+                  <matrix>
+                    <Matrix tx="358" ty="148.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="legend-anima2.png">
+                  <matrix>
+                    <Matrix tx="358" ty="148.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="legend-anima3.png">
+                  <matrix>
+                    <Matrix tx="358" ty="148.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="legend-anima4.png">
+                  <matrix>
+                    <Matrix tx="358" ty="148.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="legend-anima5.png">
+                  <matrix>
+                    <Matrix tx="358" ty="148.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="legend-anima6.png">
+                  <matrix>
+                    <Matrix tx="358" ty="148.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_hover_ani" name="mc_recycle_hover_ani" selected="true">
+                  <matrix>
+                    <Matrix tx="355.95" ty="148.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="123.95" y="176.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="35" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_5" color="#009999" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_krystal_ori" name="btn_recycle_krystal">
+                  <matrix>
+                    <Matrix tx="380.95" ty="191.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99.5" y="132.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_krystal_ori" name="btn_recycle_krystal" centerPoint3DX="480.45" centerPoint3DY="393.45">
+                  <matrix>
+                    <Matrix tx="380.95" ty="260.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99.5" y="132.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_krystal_ori" name="btn_recycle_krystal" centerPoint3DX="480.45" centerPoint3DY="324.45">
+                  <matrix>
+                    <Matrix tx="380.95" ty="191.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99.5" y="132.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_krystal_ori" name="btn_recycle_krystal" centerPoint3DX="480.45" centerPoint3DY="314.45">
+                  <matrix>
+                    <Matrix tx="380.95" ty="181.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99.5" y="132.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.14"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_krystal_ori" name="btn_recycle_krystal" centerPoint3DX="480.45" centerPoint3DY="324.45">
+                  <matrix>
+                    <Matrix tx="380.95" ty="191.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99.5" y="132.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_krystal_ori" name="btn_recycle_krystal" centerPoint3DX="480.45" centerPoint3DY="324.45">
+                  <matrix>
+                    <Matrix tx="380.95" ty="191.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99.5" y="132.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_bg">
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_bg" centerPoint3DX="480" centerPoint3DY="325">
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="65" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_recycle_assets/Mc_recycle_bg" centerPoint3DX="480" centerPoint3DY="325">
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

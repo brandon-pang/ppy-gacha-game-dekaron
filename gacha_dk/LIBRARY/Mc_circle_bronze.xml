@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_circle_bronze" itemID="5bf38c07-00002aa5" lastModified="1542688835" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Mc_circle_bronze" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="87" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.gotoAndPla('start');]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_bronze_ani">
+                  <transformationPoint>
+                    <Point x="95" y="107"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="43" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_bronze_ani" centerPoint3DX="95" centerPoint3DY="107">
+                  <transformationPoint>
+                    <Point x="95" y="107"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="44" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_bronze_ani" centerPoint3DX="95" centerPoint3DY="106.95">
+                  <matrix>
+                    <Matrix a="-0.986297607421875" b="0.161712646484375" c="-0.161712646484375" d="-0.986297607421875" tx="206" ty="197.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95" y="107.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.71"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_bronze_ani" centerPoint3DX="95" centerPoint3DY="107">
+                  <transformationPoint>
+                    <Point x="95" y="107"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

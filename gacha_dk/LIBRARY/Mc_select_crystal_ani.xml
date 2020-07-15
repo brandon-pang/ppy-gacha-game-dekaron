@@ -1,0 +1,112 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_select_crystal_ani" itemID="5be4be37-000008fb" lastModified="1541717596">
+  <timeline>
+    <DOMTimeline name="Mc_select_crystal_ani">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMGroup selected="true">
+                              <members>
+                                <DOMShape selected="true" isDrawingObject="true">
+                                  <matrix>
+                                    <Matrix tx="83.45" ty="9.5"/>
+                                  </matrix>
+                                  <strokes>
+                                    <StrokeStyle index="1">
+                                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                        <fill>
+                                          <SolidColor color="#FFFFFF"/>
+                                        </fill>
+                                      </SolidStroke>
+                                    </StrokeStyle>
+                                  </strokes>
+                                  <edges>
+                                    <Edge strokeStyle="1" edges="!160 10[222 10 266 54!266 54[310 99 310 160!310 160[310 222 266 266!266 266[222 310 160 310!160 310[98 310 54 266!54 266[10 222 10 160!10 160[10 98 54 54!54 54[98 10 160 10"/>
+                                    <Edge cubics="!160 10(;242,10 310,78 310,160q160 10Q222 10q266 54Q310 99q310 160);"/>
+                                    <Edge cubics="!310 160(;310,243 242,310 160,310q310 160Q310 222q266 266Q222 310q160 310);"/>
+                                    <Edge cubics="!160 310(;77,310 10,243 10,160q160 310Q98 310q54 266Q10 222q10 160);"/>
+                                    <Edge cubics="!10 160(;10,78 77,10 160,10q10 160Q10 98q54 54Q98 10q160 10);"/>
+                                  </edges>
+                                </DOMShape>
+                                <DOMShape selected="true" isDrawingObject="true">
+                                  <matrix>
+                                    <Matrix tx="83.45" ty="9.5"/>
+                                  </matrix>
+                                  <fills>
+                                    <FillStyle index="1">
+                                      <SolidColor color="#FFFFFF"/>
+                                    </FillStyle>
+                                  </fills>
+                                  <edges>
+                                    <Edge fillStyle1="1" edges="!160 70[197 70 223 97!223 97[250 123 250 160!250 160[250 197 223 224!223 224[197 250 160 250!160 250[123 250 96 224!96 224[70 198 70 160!70 160[70 123 96 97!96 97[123 70 160 70"/>
+                                    <Edge cubics="!160 70(;209,70 250,111 250,160q160 70Q197 70q223 97Q250 123q250 160);"/>
+                                    <Edge cubics="!250 160(;250,210 209,250 160,250q250 160Q250 197q223 224Q197 250q160 250);"/>
+                                    <Edge cubics="!160 250(;110,250 70,210 70,160q160 250Q123 250q96 224Q70 198q70 160);"/>
+                                    <Edge cubics="!70 160(;70,111 110,70 160,70q70 160Q70 123q96 97Q123 70q160 70);"/>
+                                  </edges>
+                                </DOMShape>
+                              </members>
+                            </DOMGroup>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <matrix>
+                                <Matrix tx="61.95" ty="9.5"/>
+                              </matrix>
+                              <strokes>
+                                <StrokeStyle index="1">
+                                  <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                    <fill>
+                                      <SolidColor color="#FFFFFF"/>
+                                    </fill>
+                                  </SolidStroke>
+                                </StrokeStyle>
+                              </strokes>
+                              <edges>
+                                <Edge strokeStyle="1" edges="!160 10[222 10 266 54!266 54[310 99 310 160!310 160[310 222 266 266!266 266[222 310 160 310!160 310[98 310 54 266!54 266[10 222 10 160!10 160[10 98 54 54!54 54[98 10 160 10"/>
+                                <Edge cubics="!160 10(;242,10 310,78 310,160q160 10Q222 10q266 54Q310 99q310 160);"/>
+                                <Edge cubics="!310 160(;310,243 242,310 160,310q310 160Q310 222q266 266Q222 310q160 310);"/>
+                                <Edge cubics="!160 310(;77,310 10,243 10,160q160 310Q98 310q54 266Q10 222q10 160);"/>
+                                <Edge cubics="!10 160(;10,78 77,10 160,10q10 160Q10 98q54 54Q98 10q160 10);"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/select_crystal_bar/menubar-basenumbers.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

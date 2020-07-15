@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_error_page" itemID="5be4b22a-00000845" lastModified="1541714667" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Mc_error_page" currentFrame="14">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="12" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_error/Mc_error_ani" name="mc_error_ani">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_error/Mc_error_ani" name="mc_error_ani" centerPoint3DX="243" centerPoint3DY="147">
+                  <matrix>
+                    <Matrix a="0.755096435546875" d="0.755096435546875" tx="59.55" ty="36.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243" y="147.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_error/Mc_error_ani" name="mc_error_ani" centerPoint3DX="243" centerPoint3DY="147">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_error/Mc_error_ani" name="mc_error_ani" centerPoint3DX="243" centerPoint3DY="147">
+                  <matrix>
+                    <Matrix a="1.09053039550781" d="1.09053039550781" tx="-21.95" ty="-13.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243" y="146.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_error/Mc_error_ani" name="mc_error_ani" selected="true" centerPoint3DX="243" centerPoint3DY="147">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

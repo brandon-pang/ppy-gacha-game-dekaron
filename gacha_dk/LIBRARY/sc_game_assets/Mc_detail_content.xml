@@ -1,0 +1,86 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_game_assets/Mc_detail_content" itemID="5bf22d2d-000022dc" lastModified="1542774777">
+  <timeline>
+    <DOMTimeline name="Mc_detail_content">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#373737"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2156 2897|8916 2897"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_tier_bg" name="mc_tier">
+                  <matrix>
+                    <Matrix tx="216" ty="-45.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="txt_cate" fontRenderingMode="standard" width="337" height="16.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="98" ty="85.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ITEM CATEGORY</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="16.4" size="14" bitmapSize="280" face="RobotoCondensed-Bold" fillColor="#6C148A"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_title" fontRenderingMode="standard" width="498" height="29" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="19" ty="106.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ITEM NAME GOES HERE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="29" size="22" bitmapSize="440" face="RobotoSlab-Bold" fillColor="#4E350B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_desc" fontRenderingMode="standard" width="408" height="129.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="63" ty="157.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>When you browse through videos at YouTube, which do you usually click first: one with around 10 views or one with around 75,000 views? If you’re normal, then you’re much more likely to click on YouTube videos that have a lot of clicks already. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="18.75" size="16" bitmapSize="320" face="RobotoCondensed-Regular" fillColor="#373737"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/bg-infoitemhover2.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

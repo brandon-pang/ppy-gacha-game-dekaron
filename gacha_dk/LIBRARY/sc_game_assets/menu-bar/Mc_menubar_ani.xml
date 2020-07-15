@@ -1,0 +1,81 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_game_assets/menu-bar/Mc_menubar_ani" itemID="5be4bd31-000008ec" lastModified="1542684973">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="Mc_menubar_ani">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Btn_home" name="btn_home" symbolType="button">
+                  <matrix>
+                    <Matrix tx="912" ty="36"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/menu-bar/top-bar.png"/>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/menu-bar/Btn_inven" name="btn_inven" symbolType="button">
+                  <matrix>
+                    <Matrix tx="78" ty="51"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/menu-bar/Btn_item_table" name="btn_item_table" symbolType="button">
+                  <matrix>
+                    <Matrix tx="154" ty="51"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_title" name="mc_title">
+                  <matrix>
+                    <Matrix tx="336" ty="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="135" y="40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/menu-bar/Btn_get_key" name="btn_get_key" symbolType="button">
+                  <matrix>
+                    <Matrix tx="666" ty="51"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="season_title" fontRenderingMode="standard" width="508" height="26.35" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="210" ty="99.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Place of Season title</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="26.35" size="20" bitmapSize="400" face="RobotoSlab-Bold" fillColor="#8F620D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

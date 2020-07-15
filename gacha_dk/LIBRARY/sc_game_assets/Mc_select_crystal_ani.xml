@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_game_assets/Mc_select_crystal_ani" itemID="5be4be37-000008fb" lastModified="1542840316">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="Mc_select_crystal_ani">
+      <layers>
+        <DOMLayer name="rb_box_no2" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/btn_radio" name="rb_box_no2" centerPoint3DX="170.5" centerPoint3DY="17.2">
+                  <matrix>
+                    <Matrix tx="137" ty="6.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="rb_box_no2" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/btn_radio" name="rb_box_no1" centerPoint3DX="131.5" centerPoint3DY="17.2">
+                  <matrix>
+                    <Matrix tx="98" ty="6.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="rb_box_no2" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/btn_radio" name="rb_box_no0" centerPoint3DX="92.5" centerPoint3DY="17.2">
+                  <matrix>
+                    <Matrix tx="59" ty="6.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/select_crystal_bar/menubar-basenumbers.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,2353 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="972" height="662" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 18.0 build 126" majorVersion="18" buildNumber="126" guidesSnapTo="false" rulerVisible="true" bitmapSnap="false" snapAlign="false" objectsSnapTo="false" timelineLabelWidth="283" viewAngle3D="85.2271153957778" vanishingPoint3DX="486" vanishingPoint3DY="331" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="07C20E7F2ACA479DB7E2F6473AB67DFC">
+     <folders>
+          <DOMFolderItem name="gameResult" itemID="5bf22f4f-000022ff"/>
+          <DOMFolderItem name="icon-exit.svg Assets" itemID="5be4d81d-00000958"/>
+          <DOMFolderItem name="icon-exit.svg Assets/Layer 1" itemID="5be4d81d-00000959"/>
+          <DOMFolderItem name="icon-help.svg" itemID="5be20dd1-00000092"/>
+          <DOMFolderItem name="icon-help.svg/Layer 1" itemID="5be20dd1-00000093" isExpanded="true"/>
+          <DOMFolderItem name="intro" itemID="5be20c14-00000078"/>
+          <DOMFolderItem name="main_frame" itemID="5be20e37-000000c9"/>
+          <DOMFolderItem name="sc_buy_key_asset" itemID="5be4d7be-0000094b"/>
+          <DOMFolderItem name="sc_buy_key_asset/sub_key_done" itemID="5be62400-00000659"/>
+          <DOMFolderItem name="sc_buy_key_asset/sub_key_loading" itemID="5be6240a-0000065d"/>
+          <DOMFolderItem name="sc_buy_key_asset/sub_key_puchased" itemID="5be623f6-00000655"/>
+          <DOMFolderItem name="sc_buy_key_asset/sub_key_select" itemID="5be623de-0000064d"/>
+          <DOMFolderItem name="sc_buy_key_asset/sub_key_stepper" itemID="5be623eb-00000651"/>
+          <DOMFolderItem name="sc_error" itemID="5be4b9ce-000008be"/>
+          <DOMFolderItem name="sc_game_assets" itemID="5be4b64f-00000879" isExpanded="true"/>
+          <DOMFolderItem name="sc_game_assets/menu-bar" itemID="5be4bcc0-000008e3"/>
+          <DOMFolderItem name="sc_game_assets/select_crystal_bar" itemID="5be4bcd6-000008e7"/>
+          <DOMFolderItem name="sc_inventory" itemID="5be50a6e-00000b3b"/>
+          <DOMFolderItem name="sc_item_table" itemID="5be50e25-00000b67"/>
+          <DOMFolderItem name="sc_recycle_assets" itemID="5bf49d02-00002dd5"/>
+          <DOMFolderItem name="sign-in" itemID="5be20c1e-0000007c"/>
+          <DOMFolderItem name="video" itemID="5be20c29-00000084"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="sc_inventory/bg-content.jpeg" itemID="5be50e97-00000b6b" sourceLastImported="1541185713" sourcePlatform="macintosh" allowSmoothing="true" quality="50" href="sc_inventory/bg-content.jpeg" bitmapDataHRef="M 130 1541738135.dat" frameRight="19200" frameBottom="13000" isJPEG="true"/>
+          <DOMBitmapItem name="sc_buy_key_asset/bg-hover-hammer.png" itemID="5be4d7f1-0000094f" sourceLastImported="1541181193" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_buy_key_asset/bg-hover-hammer.png" bitmapDataHRef="M 124 1541724145.dat" frameRight="3920" frameBottom="5240"/>
+          <DOMBitmapItem name="sc_game_assets/bg-infoitemhover2.png" itemID="5bf22871-00002284" sourceLastImported="1541117325" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/bg-infoitemhover2.png" bitmapDataHRef="M 139 1542596721.dat" frameRight="10660" frameBottom="6380"/>
+          <DOMBitmapItem name="sc_inventory/bg_exchange.jpeg" itemID="5be515c6-00000b95" sourceLastImported="1541184177" sourcePlatform="macintosh" allowSmoothing="true" quality="50" href="sc_inventory/bg_exchange.jpeg" bitmapDataHRef="M 131 1541739974.dat" frameRight="19200" frameBottom="13000" isJPEG="true"/>
+          <DOMBitmapItem name="sc_item_table/bg_home_screen.jpeg" itemID="5be4b763-00000895" sourceLastImported="1541114668" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" quality="50" href="sc_item_table/bg_home_screen.jpeg" bitmapDataHRef="M 120 1541715811.dat" frameRight="19200" frameBottom="13000" isJPEG="true"/>
+          <DOMBitmapItem name="sc_recycle_assets/bg_legendary_crystal.jpg" itemID="5bf46e43-00002ada" sourceLastImported="1541176609" sourcePlatform="macintosh" allowSmoothing="true" quality="50" href="sc_recycle_assets/bg_legendary_crystal.jpg" bitmapDataHRef="M 150 1542745667.dat" frameRight="19200" frameBottom="13000" isJPEG="true"/>
+          <DOMBitmapItem name="sc_inventory/bg_my_storage.jpeg" itemID="5be5dff6-00000d91" sourceLastImported="1541739638" sourcePlatform="macintosh" externalFileSize="355284" allowSmoothing="true" quality="50" href="sc_inventory/bg_my_storage.jpeg" bitmapDataHRef="M 128 1541736967.dat" frameRight="19200" frameBottom="13000" isJPEG="true"/>
+          <DOMBitmapItem name="sc_inventory/bg_send_to_mail.jpeg" itemID="5be51640-00000b99" sourceLastImported="1541184410" sourcePlatform="macintosh" allowSmoothing="true" quality="50" href="sc_inventory/bg_send_to_mail.jpeg" bitmapDataHRef="M 132 1541740096.dat" frameRight="19200" frameBottom="13000" isJPEG="true"/>
+          <DOMBitmapItem name="sc_buy_key_asset/bg_shop_hammers_2.jpeg" itemID="5be4d78e-00000942" sourceLastImported="1541180429" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" quality="50" href="sc_buy_key_asset/bg_shop_hammers_2.jpeg" bitmapDataHRef="M 123 1541724046.dat" frameRight="19200" frameBottom="13000" isJPEG="true"/>
+          <DOMBitmapItem name="main_frame/bg_sign_in_warning.png" itemID="5be5dff6-00000d92" sourceLastImported="1541710011" sourcePlatform="macintosh" externalFileSize="579429" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="main_frame/bg_sign_in_warning.png" bitmapDataHRef="M 110 1541649028.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="main_frame/bgwarning.png" itemID="5be3b40c-00000795" sourceLastImported="1541194888" sourcePlatform="macintosh" externalFileSize="31560" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="main_frame/bgwarning.png" bitmapDataHRef="M 111 1541649246.dat" frameRight="9720" frameBottom="5880"/>
+          <DOMBitmapItem name="sc_buy_key_asset/bottom-1hammer.png" itemID="5be4d7f6-00000953" sourceLastImported="1541177003" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_buy_key_asset/bottom-1hammer.png" bitmapDataHRef="M 125 1541724150.dat" frameRight="3400" frameBottom="1200"/>
+          <DOMBitmapItem name="sc_buy_key_asset/bottom-gethammers.png" itemID="5be6148b-0000056a" sourceLastImported="1541176504" sourcePlatform="macintosh" externalFileSize="7044" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_buy_key_asset/bottom-gethammers.png" bitmapDataHRef="M 118 1541795486.dat" frameRight="3620" frameBottom="1240"/>
+          <DOMBitmapItem name="sc_game_assets/bottom-mystorage.png" itemID="5bf228a1-00002290" sourceLastImported="1541176504" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/bottom-mystorage.png" bitmapDataHRef="M 142 1542596769.dat" frameRight="3620" frameBottom="1240"/>
+          <DOMBitmapItem name="sc_buy_key_asset/chest-item-bg.jpg" itemID="5be5dff7-00000d93" sourceLastImported="1541739638" sourcePlatform="macintosh" externalFileSize="6514" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" quality="50" href="sc_buy_key_asset/chest-item-bg.jpg" bitmapDataHRef="M 129 1541736986.dat" frameRight="9120" frameBottom="2800" isJPEG="true"/>
+          <DOMBitmapItem name="sc_buy_key_asset/chest.png" itemID="5be5fa2a-00000509" sourceLastImported="1541180543" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_buy_key_asset/chest.png" bitmapDataHRef="M 119 1541798442.dat" frameRight="5160" frameBottom="3400"/>
+          <DOMBitmapItem name="sc_error/crystal-error-404.png" itemID="5be5dff7-00000d94" sourceLastImported="1541717491" sourcePlatform="macintosh" externalFileSize="3913" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_error/crystal-error-404.png" bitmapDataHRef="M 113 1541714167.dat" frameRight="800" frameBottom="1160"/>
+          <DOMBitmapItem name="sc_game_assets/menu-bar/cta-content.png" itemID="5be4b672-00000891" sourceLastImported="1541113903" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/menu-bar/cta-content.png" bitmapDataHRef="M 119 1541715570.dat" frameRight="1200" frameBottom="1200"/>
+          <DOMBitmapItem name="sc_game_assets/cta-left.png" itemID="5bf23134-00002482" sourceLastImported="1541114484" sourcePlatform="macintosh" externalFileSize="3273" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/cta-left.png" bitmapDataHRef="M 140 1542596742.dat" frameRight="800" frameBottom="800"/>
+          <DOMBitmapItem name="sc_game_assets/cta-right.png" itemID="5bf23134-00002483" sourceLastImported="1541114477" sourcePlatform="macintosh" externalFileSize="3313" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/cta-right.png" bitmapDataHRef="M 141 1542596753.dat" frameRight="800" frameBottom="800"/>
+          <DOMBitmapItem name="sc_game_assets/menu-bar/cta-storage.png" itemID="5be4b672-0000088d" sourceLastImported="1541113910" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/menu-bar/cta-storage.png" bitmapDataHRef="M 118 1541715570.dat" frameRight="1200" frameBottom="1200"/>
+          <DOMBitmapItem name="sc_game_assets/menu-bar/get-hammer-bottom.png" itemID="5bea0b81-00001d49" sourceLastImported="1541716511" sourcePlatform="macintosh" externalFileSize="4852" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/menu-bar/get-hammer-bottom.png" bitmapDataHRef="M 120 1542064696.dat" frameRight="4440" frameBottom="1200"/>
+          <DOMBitmapItem name="sc_buy_key_asset/hammerimage.png" itemID="5be4ea0c-00000a36" sourceLastImported="1541181256" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_buy_key_asset/hammerimage.png" bitmapDataHRef="M 127 1541728780.dat" frameRight="1740" frameBottom="2360"/>
+          <DOMBitmapItem name="main_frame/home-icon.png" itemID="5beb9d7a-00000f65" sourceLastImported="1542149250" sourcePlatform="macintosh" externalFileSize="4271" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="main_frame/home-icon.png" bitmapDataHRef="M 122 1542167840.dat" frameRight="780" frameBottom="820"/>
+          <DOMBitmapItem name="sc_buy_key_asset/hover.png" itemID="5be5eb13-000004dd" sourceLastImported="1541180543" sourcePlatform="macintosh" externalFileSize="24587" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_buy_key_asset/hover.png" bitmapDataHRef="M 116 1541794123.dat" frameRight="15180" frameBottom="7100"/>
+          <DOMBitmapItem name="sc_game_assets/hoverstatement-bottom-openmore.png" itemID="5bf23134-00002484" sourceLastImported="1542148449" sourcePlatform="macintosh" externalFileSize="7271" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/hoverstatement-bottom-openmore.png" bitmapDataHRef="M 143 1542597205.dat" frameRight="3620" frameBottom="1240"/>
+          <DOMBitmapItem name="main_frame/hoverstatement-home-icon.png" itemID="5beb9d7a-00000f66" sourceLastImported="1542149258" sourcePlatform="macintosh" externalFileSize="4285" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="main_frame/hoverstatement-home-icon.png" bitmapDataHRef="M 121 1542167840.dat" frameRight="780" frameBottom="820"/>
+          <DOMBitmapItem name="sc_game_assets/item-icon.png" itemID="5bf22f46-000022f4" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="9530" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/item-icon.png" bitmapDataHRef="M 138 1542226294.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="legend-anima1.png" itemID="5bf4ad25-0000304c" sourceLastImported="1542755577" sourcePlatform="macintosh" externalFileSize="56162" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="legend-anima1.png" bitmapDataHRef="M 159 1542761102.dat" frameRight="4940" frameBottom="7060"/>
+          <DOMBitmapItem name="legend-anima2.png" itemID="5bf4ad25-0000304d" sourceLastImported="1542755584" sourcePlatform="macintosh" externalFileSize="55052" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="legend-anima2.png" bitmapDataHRef="M 158 1542761101.dat" frameRight="4940" frameBottom="7060"/>
+          <DOMBitmapItem name="legend-anima3.png" itemID="5bf4ad25-0000304e" sourceLastImported="1542755590" sourcePlatform="macintosh" externalFileSize="62224" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="legend-anima3.png" bitmapDataHRef="M 157 1542761101.dat" frameRight="4940" frameBottom="7060"/>
+          <DOMBitmapItem name="legend-anima4.png" itemID="5bf4ad25-0000304f" sourceLastImported="1542755595" sourcePlatform="macintosh" externalFileSize="60098" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="legend-anima4.png" bitmapDataHRef="M 156 1542761101.dat" frameRight="4940" frameBottom="7060"/>
+          <DOMBitmapItem name="legend-anima5.png" itemID="5bf4ad25-00003050" sourceLastImported="1542755601" sourcePlatform="macintosh" externalFileSize="69724" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="legend-anima5.png" bitmapDataHRef="M 155 1542761101.dat" frameRight="4940" frameBottom="7060"/>
+          <DOMBitmapItem name="legend-anima6.png" itemID="5bf4ad25-00003051" sourceLastImported="1542755607" sourcePlatform="macintosh" externalFileSize="74259" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="legend-anima6.png" bitmapDataHRef="M 154 1542761101.dat" frameRight="4940" frameBottom="7060"/>
+          <DOMBitmapItem name="legendary-light-fx.png" itemID="5bf4ad25-00003052" sourceLastImported="1542761589" sourcePlatform="macintosh" externalFileSize="102819" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="legendary-light-fx.png" bitmapDataHRef="M 160 1542761617.dat" frameRight="8460" frameBottom="9160"/>
+          <DOMBitmapItem name="sc_recycle_assets/legendarycrystal.png" itemID="5bf4717b-00002b52" sourceLastImported="1541176612" sourcePlatform="macintosh" externalFileSize="44561" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_recycle_assets/legendarycrystal.png" bitmapDataHRef="M 151 1542745769.dat" frameRight="3980" frameBottom="5300"/>
+          <DOMBitmapItem name="sc_recycle_assets/legendarycrystal1.png" itemID="5bf4717b-00002b53" sourceLastImported="1541793481" sourcePlatform="macintosh" externalFileSize="52423" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_recycle_assets/legendarycrystal1.png" bitmapDataHRef="M 152 1542746080.dat" frameRight="4940" frameBottom="7060"/>
+          <DOMBitmapItem name="sc_recycle_assets/legendarycrystal2.png" itemID="5bf4717b-00002b54" sourceLastImported="1541793487" sourcePlatform="macintosh" externalFileSize="56679" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_recycle_assets/legendarycrystal2.png" bitmapDataHRef="M 153 1542746085.dat" frameRight="4940" frameBottom="7060"/>
+          <DOMBitmapItem name="sc_game_assets/light-bronze.png" itemID="5bf4b17a-00003107" sourceLastImported="1542761196" sourcePlatform="macintosh" externalFileSize="128112" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_game_assets/light-bronze.png" bitmapDataHRef="M 165 1542762261.dat" frameRight="5700" frameBottom="6420"/>
+          <DOMBitmapItem name="sc_game_assets/light-diamond.png" itemID="5bf4b17a-00003108" sourceLastImported="1542761083" sourcePlatform="macintosh" externalFileSize="137335" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_game_assets/light-diamond.png" bitmapDataHRef="M 164 1542762259.dat" frameRight="5700" frameBottom="6420"/>
+          <DOMBitmapItem name="sc_game_assets/light-gold.png" itemID="5bf4b17a-00003109" sourceLastImported="1542761066" sourcePlatform="macintosh" externalFileSize="128887" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_game_assets/light-gold.png" bitmapDataHRef="M 163 1542762257.dat" frameRight="5700" frameBottom="6420"/>
+          <DOMBitmapItem name="sc_game_assets/light-platinum.png" itemID="5bf4b17a-0000310a" sourceLastImported="1542761074" sourcePlatform="macintosh" externalFileSize="138989" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_game_assets/light-platinum.png" bitmapDataHRef="M 162 1542762255.dat" frameRight="5700" frameBottom="6420"/>
+          <DOMBitmapItem name="sc_game_assets/light-silver.png" itemID="5bf4b17a-0000310b" sourceLastImported="1542761061" sourcePlatform="macintosh" externalFileSize="83844" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_game_assets/light-silver.png" bitmapDataHRef="M 161 1542762251.dat" frameRight="5700" frameBottom="6420"/>
+          <DOMBitmapItem name="sc_game_assets/light.png" itemID="5bf22f46-000022f5" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="36696" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/light.png" bitmapDataHRef="M 137 1542171164.dat" frameRight="3800" frameBottom="4280"/>
+          <DOMBitmapItem name="main_frame/Logo.png" itemID="5be5dff7-00000d95" sourceLastImported="1541568500" sourcePlatform="macintosh" externalFileSize="113603" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="main_frame/Logo.png" bitmapDataHRef="M 5 1541566727.dat" frameRight="7640" frameBottom="4100"/>
+          <DOMBitmapItem name="sc_game_assets/select_crystal_bar/menubar-basenumbers.png" itemID="5be4b672-00000885" sourceLastImported="1541113971" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/select_crystal_bar/menubar-basenumbers.png" bitmapDataHRef="M 116 1541715570.dat" frameRight="3980" frameBottom="900"/>
+          <DOMBitmapItem name="main_frame/no sound.png" itemID="5be20e85-000000d4" sourceLastImported="1541187694" sourcePlatform="macintosh" externalFileSize="1820" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="main_frame/no sound.png" bitmapDataHRef="M 2 1541541338.dat" frameRight="580" frameBottom="620"/>
+          <DOMBitmapItem name="sc_game_assets/open_crystal1.png" itemID="5bf22f46-000022f6" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="40543" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/open_crystal1.png" bitmapDataHRef="M 131 1542170674.dat" frameRight="4580" frameBottom="6380"/>
+          <DOMBitmapItem name="sc_game_assets/open_crystal2.png" itemID="5bf22f46-000022f7" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="35788" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/open_crystal2.png" bitmapDataHRef="M 130 1542170674.dat" frameRight="4580" frameBottom="6380"/>
+          <DOMBitmapItem name="sc_game_assets/open_crystal3.png" itemID="5bf22f46-000022f8" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="50310" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/open_crystal3.png" bitmapDataHRef="M 129 1542170673.dat" frameRight="4580" frameBottom="6380"/>
+          <DOMBitmapItem name="sc_game_assets/open_crystal4.png" itemID="5bf22f46-000022f9" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="56281" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/open_crystal4.png" bitmapDataHRef="M 128 1542170673.dat" frameRight="4580" frameBottom="6380"/>
+          <DOMBitmapItem name="sc_game_assets/open_crystal5.png" itemID="5bf22f46-000022fa" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="55067" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/open_crystal5.png" bitmapDataHRef="M 127 1542170673.dat" frameRight="4580" frameBottom="6380"/>
+          <DOMBitmapItem name="sc_game_assets/open_crystal6.png" itemID="5bf22f46-000022fb" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="58380" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/open_crystal6.png" bitmapDataHRef="M 126 1542170673.dat" frameRight="4580" frameBottom="6380"/>
+          <DOMBitmapItem name="sc_game_assets/regular crystal 1.png" itemID="5be4bafd-000008c6" sourceLastImported="1541114899" sourcePlatform="macintosh" externalFileSize="25221" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/regular crystal 1.png" bitmapDataHRef="M 121 1541716281.dat" frameRight="2800" frameBottom="4800"/>
+          <DOMBitmapItem name="sc_game_assets/regularcrystal2.png" itemID="5bf22f46-000022fc" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="27023" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/regularcrystal2.png" bitmapDataHRef="M 124 1542169638.dat" frameRight="2800" frameBottom="4800"/>
+          <DOMBitmapItem name="sc_buy_key_asset/shop-character.png" itemID="5be5e946-000004c7" sourceLastImported="1541026363" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_buy_key_asset/shop-character.png" bitmapDataHRef="M 115 1541794118.dat" frameRight="9960" frameBottom="10460"/>
+          <DOMBitmapItem name="sc_game_assets/shop-coin.png" itemID="5be4d80b-00000957" sourceLastImported="1541177115" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/shop-coin.png" bitmapDataHRef="M 126 1541724171.dat" frameRight="400" frameBottom="400"/>
+          <DOMBitmapItem name="sc_buy_key_asset/shop-confirmation.png" itemID="5beb7b23-000006f9" sourceLastImported="1542148588" sourcePlatform="macintosh" externalFileSize="13529" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_buy_key_asset/shop-confirmation.png" bitmapDataHRef="M 120 1542159013.dat" frameRight="3020" frameBottom="4460"/>
+          <DOMBitmapItem name="main_frame/sound.png" itemID="5be20e85-000000d5" sourceLastImported="1541187697" sourcePlatform="macintosh" externalFileSize="1871" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="main_frame/sound.png" bitmapDataHRef="M 1 1541541338.dat" frameRight="600" frameBottom="640"/>
+          <DOMBitmapItem name="main_frame/start_bottom hover.png" itemID="5be20e85-000000d6" sourceLastImported="1541528854" sourcePlatform="macintosh" externalFileSize="12026" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="main_frame/start_bottom hover.png" bitmapDataHRef="M 4 1541541345.dat" frameRight="5680" frameBottom="1860"/>
+          <DOMBitmapItem name="main_frame/start_bottom.png" itemID="5be20e85-000000d7" sourceLastImported="1541193395" sourcePlatform="macintosh" externalFileSize="10509" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="main_frame/start_bottom.png" bitmapDataHRef="M 3 1541541345.dat" frameRight="5680" frameBottom="1860"/>
+          <DOMBitmapItem name="main_frame/subtitle.png" itemID="5be27494-00000287" sourceLastImported="1541791874" sourcePlatform="macintosh" externalFileSize="21254" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="main_frame/subtitle.png" bitmapDataHRef="M 6 1541566730.dat" frameRight="7640" frameBottom="1620"/>
+          <DOMBitmapItem name="sc_game_assets/tier_bronze.png" itemID="5bf22f46-000022fd" sourceLastImported="1542318102" sourcePlatform="macintosh" externalFileSize="7067" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/tier_bronze.png" bitmapDataHRef="M 132 1542171141.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="sc_game_assets/tier_diamond.png" itemID="5bebaa05-000011d7" sourceLastImported="1541114716" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/tier_diamond.png" bitmapDataHRef="M 133 1542171141.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="sc_game_assets/tier_gold.png" itemID="5bebaa05-000011db" sourceLastImported="1541114503" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/tier_gold.png" bitmapDataHRef="M 134 1542171141.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="sc_game_assets/tier_platinum.png" itemID="5bf325d7-00002501" sourceLastImported="1542236878" sourcePlatform="macintosh" externalFileSize="18618" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sc_game_assets/tier_platinum.png" bitmapDataHRef="M 149 1542661321.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="sc_game_assets/tier_silver.png" itemID="5bebaa05-000011e3" sourceLastImported="1541114515" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/tier_silver.png" bitmapDataHRef="M 136 1542171141.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="sc_game_assets/menu-bar/top-bar-logo.png" itemID="5be4b669-00000881" sourceLastImported="1541113886" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/menu-bar/top-bar-logo.png" bitmapDataHRef="M 115 1541715561.dat" frameRight="5400" frameBottom="1600"/>
+          <DOMBitmapItem name="sc_game_assets/menu-bar/top-bar.png" itemID="5be4b669-0000087d" sourceLastImported="1541113917" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sc_game_assets/menu-bar/top-bar.png" bitmapDataHRef="M 114 1541715561.dat" frameRight="19180" frameBottom="3120"/>
+          <DOMBitmapItem name="video/레이어 1.png" itemID="5be27494-00000288" sourceLastImported="1541567086" sourcePlatform="macintosh" externalFileSize="1106474" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 1.png" bitmapDataHRef="M 7 1541567384.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 10.png" itemID="5be27495-00000289" sourceLastImported="1541567085" sourcePlatform="macintosh" externalFileSize="1118779" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 10.png" bitmapDataHRef="M 16 1541567387.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 11.png" itemID="5be27495-0000028e" sourceLastImported="1541567085" sourcePlatform="macintosh" externalFileSize="1121716" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 11.png" bitmapDataHRef="M 17 1541567387.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 12.png" itemID="5be27496-0000028f" sourceLastImported="1541567084" sourcePlatform="macintosh" externalFileSize="1125574" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 12.png" bitmapDataHRef="M 18 1541567388.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 13.png" itemID="5be27496-00000290" sourceLastImported="1541567084" sourcePlatform="macintosh" externalFileSize="1125355" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 13.png" bitmapDataHRef="M 19 1541567388.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 14.png" itemID="5be27496-00000291" sourceLastImported="1541567084" sourcePlatform="macintosh" externalFileSize="1125586" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 14.png" bitmapDataHRef="M 20 1541567388.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 15.png" itemID="5be27496-00000292" sourceLastImported="1541567084" sourcePlatform="macintosh" externalFileSize="1125940" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 15.png" bitmapDataHRef="M 21 1541567389.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 16.png" itemID="5be27496-00000293" sourceLastImported="1541567084" sourcePlatform="macintosh" externalFileSize="1127753" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 16.png" bitmapDataHRef="M 22 1541567389.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 17.png" itemID="5be27497-00000294" sourceLastImported="1541567084" sourcePlatform="macintosh" externalFileSize="1127550" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 17.png" bitmapDataHRef="M 23 1541567390.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 18.png" itemID="5be27497-00000295" sourceLastImported="1541567084" sourcePlatform="macintosh" externalFileSize="1130544" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 18.png" bitmapDataHRef="M 24 1541567390.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 19.png" itemID="5be27497-00000296" sourceLastImported="1541567084" sourcePlatform="macintosh" externalFileSize="1130479" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 19.png" bitmapDataHRef="M 25 1541567390.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 2.png" itemID="5be27497-00000297" sourceLastImported="1541567086" sourcePlatform="macintosh" externalFileSize="1108455" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 2.png" bitmapDataHRef="M 8 1541567384.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 20.png" itemID="5be27497-00000298" sourceLastImported="1541567083" sourcePlatform="macintosh" externalFileSize="1136362" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 20.png" bitmapDataHRef="M 26 1541567391.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 21.png" itemID="5be27497-00000299" sourceLastImported="1541567083" sourcePlatform="macintosh" externalFileSize="1143948" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 21.png" bitmapDataHRef="M 27 1541567391.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 22.png" itemID="5be27497-0000029a" sourceLastImported="1541567083" sourcePlatform="macintosh" externalFileSize="1143948" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 22.png" bitmapDataHRef="M 28 1541567391.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 23.png" itemID="5be27498-0000029b" sourceLastImported="1541567083" sourcePlatform="macintosh" externalFileSize="1153778" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 23.png" bitmapDataHRef="M 29 1541567392.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 24.png" itemID="5be27498-0000029c" sourceLastImported="1541567083" sourcePlatform="macintosh" externalFileSize="1153830" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 24.png" bitmapDataHRef="M 30 1541567392.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 25.png" itemID="5be27498-0000029d" sourceLastImported="1541567083" sourcePlatform="macintosh" externalFileSize="1154379" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 25.png" bitmapDataHRef="M 31 1541567392.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 26.png" itemID="5be27498-0000029e" sourceLastImported="1541567083" sourcePlatform="macintosh" externalFileSize="1154491" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 26.png" bitmapDataHRef="M 32 1541567393.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 27.png" itemID="5be27498-0000029f" sourceLastImported="1541567083" sourcePlatform="macintosh" externalFileSize="1155738" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 27.png" bitmapDataHRef="M 33 1541567393.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 28.png" itemID="5be27498-000002a0" sourceLastImported="1541567082" sourcePlatform="macintosh" externalFileSize="1155698" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 28.png" bitmapDataHRef="M 34 1541567393.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 29.png" itemID="5be27498-000002a1" sourceLastImported="1541567082" sourcePlatform="macintosh" externalFileSize="1156195" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 29.png" bitmapDataHRef="M 35 1541567394.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 3.png" itemID="5be27499-000002a2" sourceLastImported="1541567086" sourcePlatform="macintosh" externalFileSize="1108889" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 3.png" bitmapDataHRef="M 9 1541567385.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 30.png" itemID="5be27499-000002a3" sourceLastImported="1541567082" sourcePlatform="macintosh" externalFileSize="1156263" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 30.png" bitmapDataHRef="M 36 1541567394.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 31.png" itemID="5be27499-000002a4" sourceLastImported="1541567082" sourcePlatform="macintosh" externalFileSize="1149536" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 31.png" bitmapDataHRef="M 37 1541567394.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 32.png" itemID="5be2749a-000002a5" sourceLastImported="1541567082" sourcePlatform="macintosh" externalFileSize="1153848" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 32.png" bitmapDataHRef="M 38 1541567395.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 33.png" itemID="5be2749a-000002a6" sourceLastImported="1541567082" sourcePlatform="macintosh" externalFileSize="1153848" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 33.png" bitmapDataHRef="M 39 1541567395.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 34.png" itemID="5be2749b-000002a7" sourceLastImported="1541567081" sourcePlatform="macintosh" externalFileSize="1160959" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 34.png" bitmapDataHRef="M 40 1541567395.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 35.png" itemID="5be2749b-000002a8" sourceLastImported="1541567081" sourcePlatform="macintosh" externalFileSize="1160200" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 35.png" bitmapDataHRef="M 41 1541567396.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 36.png" itemID="5be2749b-000002a9" sourceLastImported="1541567081" sourcePlatform="macintosh" externalFileSize="1159346" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 36.png" bitmapDataHRef="M 42 1541567396.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 37.png" itemID="5be2749b-000002aa" sourceLastImported="1541567081" sourcePlatform="macintosh" externalFileSize="1159346" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 37.png" bitmapDataHRef="M 43 1541567396.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 38.png" itemID="5be2749b-000002ab" sourceLastImported="1541567081" sourcePlatform="macintosh" externalFileSize="1158766" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 38.png" bitmapDataHRef="M 44 1541567397.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 39.png" itemID="5be2749b-000002ac" sourceLastImported="1541567081" sourcePlatform="macintosh" externalFileSize="1160044" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 39.png" bitmapDataHRef="M 45 1541567397.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 4.png" itemID="5be2749b-000002ad" sourceLastImported="1541567085" sourcePlatform="macintosh" externalFileSize="1108889" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 4.png" bitmapDataHRef="M 10 1541567385.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 40.png" itemID="5be2749c-000002ae" sourceLastImported="1541567081" sourcePlatform="macintosh" externalFileSize="1159998" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 40.png" bitmapDataHRef="M 46 1541567398.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 41.png" itemID="5be2749c-000002af" sourceLastImported="1541567081" sourcePlatform="macintosh" externalFileSize="1161707" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 41.png" bitmapDataHRef="M 47 1541567398.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 42.png" itemID="5be2749c-000002b0" sourceLastImported="1541567080" sourcePlatform="macintosh" externalFileSize="1162111" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 42.png" bitmapDataHRef="M 48 1541567398.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 43.png" itemID="5be2749c-000002b1" sourceLastImported="1541567080" sourcePlatform="macintosh" externalFileSize="1164475" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 43.png" bitmapDataHRef="M 49 1541567399.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 44.png" itemID="5be2749c-000002b2" sourceLastImported="1541567080" sourcePlatform="macintosh" externalFileSize="1164475" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 44.png" bitmapDataHRef="M 50 1541567399.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 45.png" itemID="5be2749c-000002b3" sourceLastImported="1541567080" sourcePlatform="macintosh" externalFileSize="1165869" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 45.png" bitmapDataHRef="M 51 1541567399.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 46.png" itemID="5be2749c-000002b4" sourceLastImported="1541567080" sourcePlatform="macintosh" externalFileSize="1166107" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 46.png" bitmapDataHRef="M 52 1541567400.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 47.png" itemID="5be2749d-000002b5" sourceLastImported="1541567080" sourcePlatform="macintosh" externalFileSize="1168148" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 47.png" bitmapDataHRef="M 53 1541567400.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 48.png" itemID="5be2749d-000002b6" sourceLastImported="1541567080" sourcePlatform="macintosh" externalFileSize="1168775" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 48.png" bitmapDataHRef="M 54 1541567400.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 49.png" itemID="5be2749d-000002b7" sourceLastImported="1541567079" sourcePlatform="macintosh" externalFileSize="1169398" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 49.png" bitmapDataHRef="M 55 1541567401.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 5.png" itemID="5be2749d-000002b8" sourceLastImported="1541567085" sourcePlatform="macintosh" externalFileSize="1112391" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 5.png" bitmapDataHRef="M 11 1541567385.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 50.png" itemID="5be2749d-000002b9" sourceLastImported="1541567079" sourcePlatform="macintosh" externalFileSize="1169607" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 50.png" bitmapDataHRef="M 56 1541567401.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 51.png" itemID="5be2749d-000002ba" sourceLastImported="1541567079" sourcePlatform="macintosh" externalFileSize="1171329" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 51.png" bitmapDataHRef="M 57 1541567401.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 52.png" itemID="5be2749e-000002bb" sourceLastImported="1541567079" sourcePlatform="macintosh" externalFileSize="1173996" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 52.png" bitmapDataHRef="M 58 1541567402.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 53.png" itemID="5be2749e-000002bc" sourceLastImported="1541567079" sourcePlatform="macintosh" externalFileSize="1174079" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 53.png" bitmapDataHRef="M 59 1541567402.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 54.png" itemID="5be2749e-000002bd" sourceLastImported="1541567079" sourcePlatform="macintosh" externalFileSize="1174490" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 54.png" bitmapDataHRef="M 60 1541567402.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 55.png" itemID="5be274a0-000002be" sourceLastImported="1541567079" sourcePlatform="macintosh" externalFileSize="1174490" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 55.png" bitmapDataHRef="M 61 1541567403.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 56.png" itemID="5be274a0-000002bf" sourceLastImported="1541567078" sourcePlatform="macintosh" externalFileSize="1177443" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 56.png" bitmapDataHRef="M 62 1541567403.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 57.png" itemID="5be274a0-000002c0" sourceLastImported="1541567078" sourcePlatform="macintosh" externalFileSize="1177357" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 57.png" bitmapDataHRef="M 63 1541567404.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 58.png" itemID="5be274a0-000002c1" sourceLastImported="1541567078" sourcePlatform="macintosh" externalFileSize="1177225" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 58.png" bitmapDataHRef="M 64 1541567404.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 59.png" itemID="5be274a1-000002c2" sourceLastImported="1541567078" sourcePlatform="macintosh" externalFileSize="1177225" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 59.png" bitmapDataHRef="M 65 1541567404.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 6.png" itemID="5be274a1-000002c3" sourceLastImported="1541567085" sourcePlatform="macintosh" externalFileSize="1112391" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 6.png" bitmapDataHRef="M 12 1541567386.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 60.png" itemID="5be274a1-000002c4" sourceLastImported="1541567078" sourcePlatform="macintosh" externalFileSize="1179031" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 60.png" bitmapDataHRef="M 66 1541567405.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 61.png" itemID="5be274a1-000002c5" sourceLastImported="1541567078" sourcePlatform="macintosh" externalFileSize="1151192" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 61.png" bitmapDataHRef="M 67 1541567405.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 62.png" itemID="5be274a1-000002c6" sourceLastImported="1541567078" sourcePlatform="macintosh" externalFileSize="1158777" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 62.png" bitmapDataHRef="M 68 1541567405.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 63.png" itemID="5be274a2-000002c7" sourceLastImported="1541567078" sourcePlatform="macintosh" externalFileSize="1164918" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 63.png" bitmapDataHRef="M 69 1541567406.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 64.png" itemID="5be274a2-000002c8" sourceLastImported="1541567077" sourcePlatform="macintosh" externalFileSize="1164918" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 64.png" bitmapDataHRef="M 70 1541567406.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 65.png" itemID="5be274a2-000002c9" sourceLastImported="1541567077" sourcePlatform="macintosh" externalFileSize="1167652" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 65.png" bitmapDataHRef="M 71 1541567406.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 66.png" itemID="5be274a2-000002ca" sourceLastImported="1541567077" sourcePlatform="macintosh" externalFileSize="1167760" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 66.png" bitmapDataHRef="M 72 1541567407.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 67.png" itemID="5be274a2-000002cb" sourceLastImported="1541567077" sourcePlatform="macintosh" externalFileSize="1167825" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 67.png" bitmapDataHRef="M 73 1541567407.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 68.png" itemID="5be274a2-000002cc" sourceLastImported="1541567077" sourcePlatform="macintosh" externalFileSize="1167825" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 68.png" bitmapDataHRef="M 74 1541567407.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 69.png" itemID="5be274a3-000002cd" sourceLastImported="1541567077" sourcePlatform="macintosh" externalFileSize="1168387" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 69.png" bitmapDataHRef="M 75 1541567408.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 7.png" itemID="5be274a3-000002ce" sourceLastImported="1541567085" sourcePlatform="macintosh" externalFileSize="1111146" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 7.png" bitmapDataHRef="M 13 1541567386.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 70.png" itemID="5be274a3-000002cf" sourceLastImported="1541567077" sourcePlatform="macintosh" externalFileSize="1168135" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 70.png" bitmapDataHRef="M 76 1541567408.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 71.png" itemID="5be274a3-000002d0" sourceLastImported="1541567076" sourcePlatform="macintosh" externalFileSize="1168232" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 71.png" bitmapDataHRef="M 77 1541567409.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 72.png" itemID="5be274a3-000002d1" sourceLastImported="1541567076" sourcePlatform="macintosh" externalFileSize="1168850" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 72.png" bitmapDataHRef="M 78 1541567409.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 73.png" itemID="5be274a4-000002d2" sourceLastImported="1541567076" sourcePlatform="macintosh" externalFileSize="1168744" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 73.png" bitmapDataHRef="M 79 1541567409.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 74.png" itemID="5be274a4-000002d3" sourceLastImported="1541567076" sourcePlatform="macintosh" externalFileSize="1170616" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 74.png" bitmapDataHRef="M 80 1541567410.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 75.png" itemID="5be274a4-000002d4" sourceLastImported="1541567076" sourcePlatform="macintosh" externalFileSize="1170616" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 75.png" bitmapDataHRef="M 81 1541567410.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 76.png" itemID="5be274a4-000002d5" sourceLastImported="1541567076" sourcePlatform="macintosh" externalFileSize="1171226" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 76.png" bitmapDataHRef="M 82 1541567410.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 77.png" itemID="5be274a4-000002d6" sourceLastImported="1541567076" sourcePlatform="macintosh" externalFileSize="1171463" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 77.png" bitmapDataHRef="M 83 1541567411.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 78.png" itemID="5be274a4-000002d7" sourceLastImported="1541567075" sourcePlatform="macintosh" externalFileSize="1173187" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 78.png" bitmapDataHRef="M 84 1541567411.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 79.png" itemID="5be274a4-000002d8" sourceLastImported="1541567075" sourcePlatform="macintosh" externalFileSize="1173187" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 79.png" bitmapDataHRef="M 85 1541567411.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 8.png" itemID="5be274a5-000002d9" sourceLastImported="1541567085" sourcePlatform="macintosh" externalFileSize="1113596" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 8.png" bitmapDataHRef="M 14 1541567386.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 80.png" itemID="5be274a5-000002da" sourceLastImported="1541567075" sourcePlatform="macintosh" externalFileSize="1174251" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 80.png" bitmapDataHRef="M 86 1541567412.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 81.png" itemID="5be274a5-000002db" sourceLastImported="1541567075" sourcePlatform="macintosh" externalFileSize="1177653" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 81.png" bitmapDataHRef="M 87 1541567412.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 82.png" itemID="5be274a5-000002dc" sourceLastImported="1541567075" sourcePlatform="macintosh" externalFileSize="1178224" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 82.png" bitmapDataHRef="M 88 1541567412.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 83.png" itemID="5be274a5-000002dd" sourceLastImported="1541567075" sourcePlatform="macintosh" externalFileSize="1180350" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 83.png" bitmapDataHRef="M 89 1541567413.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 84.png" itemID="5be274a5-000002de" sourceLastImported="1541567075" sourcePlatform="macintosh" externalFileSize="1180350" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 84.png" bitmapDataHRef="M 90 1541567413.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 85.png" itemID="5be274a5-000002df" sourceLastImported="1541567074" sourcePlatform="macintosh" externalFileSize="1180730" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 85.png" bitmapDataHRef="M 91 1541567413.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 86.png" itemID="5be274a6-000002e0" sourceLastImported="1541567074" sourcePlatform="macintosh" externalFileSize="1180989" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 86.png" bitmapDataHRef="M 92 1541567417.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 87.png" itemID="5be274a6-000002e1" sourceLastImported="1541567074" sourcePlatform="macintosh" externalFileSize="1181858" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 87.png" bitmapDataHRef="M 93 1541567417.dat" frameRight="19200" frameBottom="13000"/>
+          <DOMBitmapItem name="video/레이어 9.png" itemID="5be274a6-000002e4" sourceLastImported="1541567085" sourcePlatform="macintosh" externalFileSize="1117648" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="video/레이어 9.png" bitmapDataHRef="M 15 1541567387.dat" frameRight="19200" frameBottom="13000"/>
+     </media>
+     <symbols>
+          <Include href="&amp;#016Mc_loading_content.xml" loadImmediate="false" itemID="5bf49eaa-00002de2" lastModified="1542758903"/>
+          <Include href="gameResult/Mc_page_no_container.xml" loadImmediate="false" itemID="5b1f03b6-00000a8a" lastModified="1542599412"/>
+          <Include href="gameResult/Mc_page_no_container1.xml" loadImmediate="false" itemID="5b1f043d-00000a99" lastModified="1542599400"/>
+          <Include href="gameResult/mc_page_normal.xml" loadImmediate="false" itemID="5b1efe80-00000a5d" lastModified="1528757888"/>
+          <Include href="gameResult/mc_pagenation.xml" loadImmediate="false" itemID="5b1efe1b-00000a55" lastModified="1528761129"/>
+          <Include href="gameResult/Mc_pagenum.xml" loadImmediate="false" itemID="5b1f026f-00000a72" lastModified="1542599509"/>
+          <Include href="hitArea.xml" loadImmediate="false" itemID="5be9fc3c-00001a80" lastModified="1542061121"/>
+          <Include href="icon-exit.svg Assets/Layer 1/&amp;#060Path&amp;#062.xml" loadImmediate="false" itemID="5be4d81d-0000095f" lastModified="1541724189"/>
+          <Include href="icon-exit.svg Assets/Layer 1/&amp;#060Path&amp;#062_1.xml" loadImmediate="false" itemID="5be4d81d-0000095d" lastModified="1541724189"/>
+          <Include href="icon-exit.svg Assets/Layer 1/&amp;#060Path&amp;#062_7.xml" loadImmediate="false" itemID="5be4d81d-0000095b" lastModified="1541724305"/>
+          <Include href="icon-help.svg/Layer 1/&amp;#060Group&amp;#062.xml" loadImmediate="false" itemID="5be20dd1-0000009b" lastModified="1541541329"/>
+          <Include href="icon-help.svg/Layer 1/&amp;#060Group&amp;#062_3.xml" loadImmediate="false" itemID="5be20dd1-00000099" lastModified="1541541329"/>
+          <Include href="icon-help.svg/Layer 1/&amp;#060Path&amp;#062.xml" loadImmediate="false" itemID="5be20dd1-0000009d" lastModified="1541541329"/>
+          <Include href="icon-help.svg/Layer 1/&amp;#060Path&amp;#062_1.xml" loadImmediate="false" itemID="5be20dd1-00000097" lastModified="1541541329"/>
+          <Include href="icon-help.svg/Layer 1/&amp;#060Path&amp;#062_2.xml" loadImmediate="false" itemID="5be20dd1-00000095" lastModified="1541541329"/>
+          <Include href="main_frame/Btn_home.xml" itemIcon="0" loadImmediate="false" itemID="5beb9d3f-00000f5d" lastModified="1542167895"/>
+          <Include href="main_frame/Btn_howto.xml" itemIcon="0" loadImmediate="false" itemID="5be21114-000000da" lastModified="1542166297"/>
+          <Include href="main_frame/Btn_sign_in.xml" itemIcon="0" loadImmediate="false" itemID="5be3b3f2-0000077a" lastModified="1541649923"/>
+          <Include href="main_frame/Btn_start.xml" itemIcon="0" loadImmediate="false" itemID="5be21106-000000d8" lastModified="1541542150"/>
+          <Include href="main_frame/Main_out_frame.xml" loadImmediate="false" itemID="5be2111e-000000db" lastModified="1541542174"/>
+          <Include href="main_frame/Mc_main_bg.xml" loadImmediate="false" itemID="5be2738c-000000e7" lastModified="1542053936"/>
+          <Include href="main_frame/Mc_main_blur_bg.xml" loadImmediate="false" itemID="5be3b318-0000075e" lastModified="1541649176"/>
+          <Include href="main_frame/Mc_main_btns.xml" loadImmediate="false" itemID="5be3aca7-0000074b" lastModified="1542060186"/>
+          <Include href="main_frame/Mc_main_title.xml" loadImmediate="false" itemID="5be3a8b9-00000672" lastModified="1541646922"/>
+          <Include href="main_frame/Mc_maintenace_txts.xml" loadImmediate="false" itemID="5be3bada-000007d7" lastModified="1541709697"/>
+          <Include href="main_frame/Mc_maintenance_ani.xml" loadImmediate="false" itemID="5be49fea-000007fd" lastModified="1541710344"/>
+          <Include href="main_frame/Mc_maintenance_icon.xml" loadImmediate="false" itemID="5be3bb27-000007f9" lastModified="1541651239"/>
+          <Include href="main_frame/Mc_sign_icon.xml" loadImmediate="false" itemID="5be3b913-000007ba" lastModified="1541650707"/>
+          <Include href="main_frame/Mc_sign_line.xml" loadImmediate="false" itemID="5be3b9a4-000007c0" lastModified="1541650852"/>
+          <Include href="main_frame/Mc_sign_txts.xml" loadImmediate="false" itemID="5be3b908-000007b6" lastModified="1541650924"/>
+          <Include href="main_frame/Mc_signin_ani.xml" loadImmediate="false" itemID="5be4a229-00000811" lastModified="1541710394"/>
+          <Include href="main_frame/Mc_sound_off.xml" loadImmediate="false" itemID="5be3a808-00000627" lastModified="1542060560"/>
+          <Include href="main_frame/Mc_sound_on.xml" loadImmediate="false" itemID="5be3a7e7-00000625" lastModified="1542061506"/>
+          <Include href="main_frame/Mc_warning_bg.xml" loadImmediate="false" itemID="5be3b8f3-000007b0" lastModified="1541650675"/>
+          <Include href="Mc_error_page.xml" loadImmediate="false" itemID="5be4b22a-00000845" lastModified="1541714667"/>
+          <Include href="Mc_game_menu_bar.xml" loadImmediate="false" itemID="5be4b96e-000008ad" lastModified="1542323836"/>
+          <Include href="Mc_loading_bg.xml" loadImmediate="false" itemID="5bf49e90-00002dde" lastModified="1542758032"/>
+          <Include href="Mc_loading_content_bg.xml" loadImmediate="false" itemID="5bf49ed6-00002df2" lastModified="1542758629"/>
+          <Include href="Mc_loading_hammer.xml" loadImmediate="false" itemID="5bf49ec0-00002de8" lastModified="1542758081"/>
+          <Include href="Mc_loading_text.xml" loadImmediate="false" itemID="5bf49ec8-00002dee" lastModified="1542759390"/>
+          <Include href="Mc_main_maintenance.xml" loadImmediate="false" itemID="5be3ba86-000007ca" lastModified="1542054363"/>
+          <Include href="Mc_main_sign_in_page.xml" loadImmediate="false" itemID="5be3b81c-00000799" lastModified="1541713948"/>
+          <Include href="Mc_main_start_page.xml" loadImmediate="false" itemID="5be3ac14-00000741" lastModified="1542053190"/>
+          <Include href="Mc_select_crystal_bar.xml" loadImmediate="false" itemID="5be4b98a-000008b6" lastModified="1542767232"/>
+          <Include href="Mc_sound_on.xml" loadImmediate="false" itemID="5be9f2e3-0000188b" lastModified="1542060543"/>
+          <Include href="Sc_block.xml" loadImmediate="false" itemID="5bf4a91a-00002e11" lastModified="1542760766"/>
+          <Include href="Sc_buy_key.xml" loadImmediate="false" itemID="5be4d7ab-00000944" lastModified="1542745935"/>
+          <Include href="sc_buy_key_asset/Mc_btn_hover_ani.xml" loadImmediate="false" itemID="5be61ad6-000005fc" lastModified="1541807808"/>
+          <Include href="sc_buy_key_asset/mc_btn_small_asset.xml" loadImmediate="false" itemID="5be61db3-00000627" lastModified="1541807539"/>
+          <Include href="sc_buy_key_asset/Mc_buy_key_bg.xml" loadImmediate="false" itemID="5be4ff21-00000a89" lastModified="1541734227"/>
+          <Include href="sc_buy_key_asset/Mc_buy_key_title.xml" loadImmediate="false" itemID="5be4feeb-00000a83" lastModified="1541806446"/>
+          <Include href="sc_buy_key_asset/Mc_close_icon.xml" loadImmediate="false" itemID="5be4d992-000009aa" lastModified="1541724562"/>
+          <Include href="sc_buy_key_asset/mc_crystal_normal.xml" loadImmediate="false" itemID="5beba47a-00001148" lastModified="1542169722"/>
+          <Include href="sc_buy_key_asset/mc_crystal_shine.xml" loadImmediate="false" itemID="5beba48a-0000114f" lastModified="1542169738"/>
+          <Include href="sc_buy_key_asset/Mc_loading_txt.xml" loadImmediate="false" itemID="5be61258-00000541" lastModified="1541804632"/>
+          <Include href="sc_buy_key_asset/Mc_open_krystal.xml" loadImmediate="false" itemID="5beba656-0000115c" lastModified="1542771348"/>
+          <Include href="sc_buy_key_asset/Mc_shop_char_ani.xml" loadImmediate="false" itemID="5beb5126-000006da" lastModified="1542148390"/>
+          <Include href="sc_buy_key_asset/Mc_small_btn_ani.xml" loadImmediate="false" itemID="5be61d98-00000621" lastModified="1542673264"/>
+          <Include href="sc_buy_key_asset/sub_key_done/Btn_get_more_key.xml" itemIcon="0" loadImmediate="false" itemID="5be6161c-00000574" lastModified="1541807926"/>
+          <Include href="sc_buy_key_asset/sub_key_done/Btn_open_krystal.xml" itemIcon="0" loadImmediate="false" itemID="5be616df-0000058a" lastModified="1542162323"/>
+          <Include href="sc_buy_key_asset/sub_key_loading/Mc_get_key_loading.xml" loadImmediate="false" itemID="5be6101b-00000526" lastModified="1542674660"/>
+          <Include href="sc_buy_key_asset/sub_key_loading/Mc_loading_box.xml" loadImmediate="false" itemID="5be61090-0000052d" lastModified="1541804176"/>
+          <Include href="sc_buy_key_asset/sub_key_puchased/Btn_buy_now.xml" itemIcon="0" loadImmediate="false" itemID="5be61a09-000005ef" lastModified="1541807458"/>
+          <Include href="sc_buy_key_asset/sub_key_puchased/Mc_puchased_balance_box.xml" loadImmediate="false" itemID="5be5ee24-000004f5" lastModified="1542147381"/>
+          <Include href="sc_buy_key_asset/sub_key_puchased/Mc_puchased_box.xml" loadImmediate="false" itemID="5be5e9f4-000004d1" lastModified="1542164699"/>
+          <Include href="sc_buy_key_asset/sub_key_puchased/Mc_puchased_done.xml" loadImmediate="false" itemID="5be615cd-0000056c" lastModified="1542684358"/>
+          <Include href="sc_buy_key_asset/sub_key_puchased/Mc_shop_character.xml" loadImmediate="false" itemID="5be5ea8a-000004d9" lastModified="1542158937"/>
+          <Include href="sc_buy_key_asset/sub_key_select/Btn_buy_key.xml" itemIcon="0" loadImmediate="false" itemID="5be4fc04-00000a51" lastModified="1542146870"/>
+          <Include href="sc_buy_key_asset/sub_key_select/Btn_recharge.xml" itemIcon="0" loadImmediate="false" itemID="5be4fe6b-00000a7e" lastModified="1541808298"/>
+          <Include href="sc_buy_key_asset/sub_key_select/Mc_balance_bar.xml" loadImmediate="false" itemID="5be4ec6c-00000a42" lastModified="1542144159"/>
+          <Include href="sc_buy_key_asset/sub_key_select/Mc_coin_icon.xml" loadImmediate="false" itemID="5be4d97b-000009a1" lastModified="1541724539"/>
+          <Include href="sc_buy_key_asset/sub_key_select/Mc_hammer_key.xml" loadImmediate="false" itemID="5be4ea4c-00000a38" lastModified="1542146851"/>
+          <Include href="sc_buy_key_asset/sub_key_select/Mc_key_title.xml" loadImmediate="false" itemID="5be4fc6a-00000a59" lastModified="1542164514"/>
+          <Include href="sc_buy_key_asset/sub_key_select/Mc_line_icon.xml" loadImmediate="false" itemID="5be4d985-000009a6" lastModified="1541724549"/>
+          <Include href="sc_buy_key_asset/sub_key_select/Mc_sale_tag.xml" loadImmediate="false" itemID="5be4d970-0000099c" lastModified="1542146886"/>
+          <Include href="sc_buy_key_asset/sub_key_stepper/Btn_step_down.xml" itemIcon="0" loadImmediate="false" itemID="5be5e10f-000004b4" lastModified="1541808078"/>
+          <Include href="sc_buy_key_asset/sub_key_stepper/Btn_step_get_key.xml" itemIcon="0" loadImmediate="false" itemID="5be5e123-000004bf" lastModified="1541808231"/>
+          <Include href="sc_buy_key_asset/sub_key_stepper/Btn_step_up.xml" itemIcon="0" loadImmediate="false" itemID="5be5e105-000004af" lastModified="1541808143"/>
+          <Include href="sc_buy_key_asset/sub_key_stepper/Mc_buy_key_stepper.xml" loadImmediate="false" itemID="5be5d410-00000bbf" lastModified="1542165343"/>
+          <Include href="sc_buy_key_asset/sub_key_stepper/Mc_stepper_bg.xml" loadImmediate="false" itemID="5be5d5e2-00000bce" lastModified="1541789154"/>
+          <Include href="sc_error/Mc_error_ani.xml" loadImmediate="false" itemID="5be4b243-0000084f" lastModified="1541714698"/>
+          <Include href="sc_error/Mc_error_icon.xml" loadImmediate="false" itemID="5be4b210-00000840" lastModified="1541714448"/>
+          <Include href="sc_error/Mc_error_txts.xml" loadImmediate="false" itemID="5be4b205-0000083c" lastModified="1542318094"/>
+          <Include href="Sc_game.xml" loadImmediate="false" itemID="5be4b7e1-0000089a" lastModified="1542778856"/>
+          <Include href="sc_game_assets/Btn_go_buy_key.xml" itemIcon="0" loadImmediate="false" itemID="5bede6ab-000013e2" lastModified="1542317784"/>
+          <Include href="sc_game_assets/Btn_go_my_inven.xml" itemIcon="0" loadImmediate="false" itemID="5bf22956-000022a5" lastModified="1542773918"/>
+          <Include href="sc_game_assets/Btn_go_open_more.xml" itemIcon="0" loadImmediate="false" itemID="5bf2296d-000022ad" lastModified="1542774591"/>
+          <Include href="sc_game_assets/Btn_left_arrow.xml" itemIcon="0" loadImmediate="false" itemID="5bf22942-000022a3" lastModified="1542596930"/>
+          <Include href="sc_game_assets/btn_radio.xml" loadImmediate="false" itemID="5b072877-000017a9" lastModified="1542325056"/>
+          <Include href="sc_game_assets/Btn_right_arrow.xml" itemIcon="0" loadImmediate="false" itemID="5bf22938-0000229f" lastModified="1542596920"/>
+          <Include href="sc_game_assets/Mc_box_arrows.xml" loadImmediate="false" itemID="5bf23254-000024c7" lastModified="1542599252"/>
+          <Include href="sc_game_assets/Mc_box_detail_btns.xml" loadImmediate="false" itemID="5bf23234-000024be" lastModified="1542599221"/>
+          <Include href="sc_game_assets/Mc_box_item_detail.xml" loadImmediate="false" itemID="5bf228cc-00002292" lastModified="1542835287"/>
+          <Include href="sc_game_assets/Mc_bronze_ani.xml" loadImmediate="false" itemID="5bf38d6c-00002abf" lastModified="1542762262"/>
+          <Include href="sc_game_assets/Mc_circle_bronze.xml" loadImmediate="false" itemID="5bf38c07-00002aa5" lastModified="1542769182"/>
+          <Include href="sc_game_assets/Mc_circle_gold.xml" loadImmediate="false" itemID="5bf38c24-00002aaf" lastModified="1542769160"/>
+          <Include href="sc_game_assets/Mc_circle_plat.xml" loadImmediate="false" itemID="5bf38c30-00002ab4" lastModified="1542769147"/>
+          <Include href="sc_game_assets/Mc_circle_silver.xml" loadImmediate="false" itemID="5bf38c18-00002aaa" lastModified="1542769169"/>
+          <Include href="sc_game_assets/Mc_detail_content.xml" loadImmediate="false" itemID="5bf22d2d-000022dc" lastModified="1542774777"/>
+          <Include href="sc_game_assets/Mc_diamond.xml" loadImmediate="false" itemID="5bf38d0d-00002aba" lastModified="1542769129"/>
+          <Include href="sc_game_assets/Mc_diamond_ani.xml" loadImmediate="false" itemID="5bf38da6-00002ad3" lastModified="1542762261"/>
+          <Include href="sc_game_assets/Mc_error_buy_key.xml" loadImmediate="false" itemID="5bede74a-0000146c" lastModified="1542317898"/>
+          <Include href="sc_game_assets/Mc_game_bg.xml" loadImmediate="false" itemID="5bec8c17-00001258" lastModified="1542229015"/>
+          <Include href="sc_game_assets/Mc_game_krystal_ani.xml" loadImmediate="false" itemID="5beba72a-00001166" lastModified="1542342879"/>
+          <Include href="sc_game_assets/Mc_game_out_line.xml" loadImmediate="false" itemID="5be4b868-000008a5" lastModified="1541716072"/>
+          <Include href="sc_game_assets/Mc_game_title.xml" loadImmediate="false" itemID="5be4bb80-000008d5" lastModified="1542168442"/>
+          <Include href="sc_game_assets/Mc_gold.xml" loadImmediate="false" itemID="5bf38d89-00002ac9" lastModified="1542762259"/>
+          <Include href="sc_game_assets/Mc_icon_place.xml" loadImmediate="false" itemID="5bec8195-0000121b" lastModified="1542764100"/>
+          <Include href="sc_game_assets/Mc_krystal_over.xml" loadImmediate="false" itemID="5bee367a-00001ef9" lastModified="1542338981"/>
+          <Include href="sc_game_assets/Mc_light_bg.xml" loadImmediate="false" itemID="5bebaab4-000011f6" lastModified="1542834388"/>
+          <Include href="sc_game_assets/Mc_plat_ani.xml" loadImmediate="false" itemID="5bf38d95-00002ace" lastModified="1542762257"/>
+          <Include href="sc_game_assets/Mc_recycle_box_item_detail.xml" loadImmediate="false" itemID="5bf475a9-00002bc5" lastModified="1542757266"/>
+          <Include href="sc_game_assets/Mc_recycle_light_bg.xml" loadImmediate="false" itemID="5bf4ac23-00002e59" lastModified="1542761875"/>
+          <Include href="sc_game_assets/Mc_result_container1.xml" loadImmediate="false" itemID="5bf23019-0000230c" lastModified="1542663171"/>
+          <Include href="sc_game_assets/Mc_result_container3.xml" loadImmediate="false" itemID="5bf2306e-00002348" lastModified="1542777103"/>
+          <Include href="sc_game_assets/Mc_result_container5.xml" loadImmediate="false" itemID="5bf23077-00002358" lastModified="1542599103"/>
+          <Include href="sc_game_assets/Mc_select_crystal_ani.xml" loadImmediate="false" itemID="5be4be37-000008fb" lastModified="1542840316"/>
+          <Include href="sc_game_assets/Mc_silver.xml" loadImmediate="false" itemID="5bf38d7f-00002ac4" lastModified="1542762255"/>
+          <Include href="sc_game_assets/Mc_tier_bg.xml" loadImmediate="false" itemID="5bebaa7b-000011e9" lastModified="1542834313"/>
+          <Include href="sc_game_assets/menu-bar/Btn_get_key.xml" itemIcon="0" loadImmediate="false" itemID="5be4bb8d-000008db" lastModified="1542685079"/>
+          <Include href="sc_game_assets/menu-bar/Btn_inven.xml" itemIcon="0" loadImmediate="false" itemID="5be4bb5e-000008c8" lastModified="1541716830"/>
+          <Include href="sc_game_assets/menu-bar/Btn_item_table.xml" itemIcon="0" loadImmediate="false" itemID="5be4bb68-000008cf" lastModified="1541716840"/>
+          <Include href="sc_game_assets/menu-bar/Mc_menubar_ani.xml" loadImmediate="false" itemID="5be4bd31-000008ec" lastModified="1542684973"/>
+          <Include href="sc_inventory/Mc_exchange_bg.xml" loadImmediate="false" itemID="5be5d01a-00000ba9" lastModified="1541787674"/>
+          <Include href="sc_inventory/Mc_send_mail_bg.xml" loadImmediate="false" itemID="5be5d091-00000bb3" lastModified="1541787793"/>
+          <Include href="sc_inventory/Mc_storage_bg.xml" loadImmediate="false" itemID="5be50afc-00000b4b" lastModified="1541737212"/>
+          <Include href="sc_inventory/Mc_storage_title.xml" loadImmediate="false" itemID="5be50ab6-00000b43" lastModified="1541788060"/>
+          <Include href="sc_item_table/Mc_item_table.xml" loadImmediate="false" itemID="5be50f66-00000b75" lastModified="1541739618"/>
+          <Include href="sc_item_table/Mc_item_table_bg.xml" loadImmediate="false" itemID="5be51107-00000b86" lastModified="1541738759"/>
+          <Include href="Sc_itemTable.xml" loadImmediate="false" itemID="5be50fe8-00000b7b" lastModified="1541739635"/>
+          <Include href="Sc_loading.xml" loadImmediate="false" itemID="5bf49cb8-00002dcd" lastModified="1542763325"/>
+          <Include href="Sc_main.xml" loadImmediate="false" itemID="5be3a882-0000062d" lastModified="1542062735"/>
+          <Include href="Sc_recycle.xml" loadImmediate="false" itemID="5bf46e91-00002adc" lastModified="1542762179"/>
+          <Include href="sc_recycle_assets/Mc_recycle_bg.xml" loadImmediate="false" itemID="5bf47341-00002b71" lastModified="1542746945"/>
+          <Include href="sc_recycle_assets/Mc_recycle_box_detail_btns.xml" loadImmediate="false" itemID="5bf479f0-00002c69" lastModified="1542748699"/>
+          <Include href="sc_recycle_assets/Mc_recycle_hover_ani.xml" loadImmediate="false" itemID="5bf470a7-00002b35" lastModified="1542747342"/>
+          <Include href="sc_recycle_assets/Mc_recycle_hover0.xml" loadImmediate="false" itemID="5bf47058-00002b22" lastModified="1542746200"/>
+          <Include href="sc_recycle_assets/Mc_recycle_hover1.xml" loadImmediate="false" itemID="5bf4707f-00002b2b" lastModified="1542746239"/>
+          <Include href="sc_recycle_assets/Mc_recycle_krystal.xml" loadImmediate="false" itemID="5bf46f32-00002afc" lastModified="1542746811"/>
+          <Include href="sc_recycle_assets/Mc_recycle_krystal_ori.xml" loadImmediate="false" itemID="5bf46fbc-00002b09" lastModified="1542752250"/>
+          <Include href="Sc_storage.xml" loadImmediate="false" itemID="5be50b33-00000b50" lastModified="1542762046"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;117&lt;/guideline&gt;&lt;guideline direction="v"&gt;485&lt;/guideline&gt;&lt;guideline direction="h"&gt;331&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="Layer_4" color="#FF4FFF" outline="true" useOutlineView="true">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="16" name="init" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_3" color="#FF800A" outline="true" useOutlineView="true">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="9" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[//global
+UIP = '';
+isStartEnable = '';
+isSignUp = false;
+//
+SEASON_TITLE = "";
+GOT_KEY = 0;
+//
+isBoxKeyNo0 = true;
+isBoxKeyNo1 = false;
+isBoxKeyNo2 = false;
+//
+ChestBoxSelectNo = 1;
+//
+KEY_PRICE = 0;
+MY_TOTAL_BALANCE = 0;
+DISCOUNT_05 = 0;
+DISCOUNT_10 = 0;
+//
+GachaUserInfo = [];
+GachaSeasonInfo = [];
+//
+SEVICE_STATUS = 0;
+USER_UNID = 0;
+
+GOLD_TIMER = 4500;
+PLA_TIMER = 6500;
+NORMAL_TIMER = 2500;
+//
+countArr = [{
+	price: KEY_PRICE,
+	value: 1,
+	discount: 0,
+}, {
+	price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_05 / 100)),
+	value: 5,
+	discount: DISCOUNT_05,
+}, {
+	price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100)),
+	value: 10,
+	discount: DISCOUNT_10,
+}, {
+	price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100)),
+	value: 'CHOOSE',
+	discount: DISCOUNT_10,
+}];
+//
+//intro
+var root = this;
+var screenNameArr = [{
+	name: "sc_main",
+	posx: 0.5,
+	posy: 0
+}, {
+	name: "sc_game",
+	posx: 0,
+	posy: -5
+}, {
+	name: "sc_buy_key",
+	posx: 6,
+	posy: 6
+}, {
+	name: "sc_inventory",
+	posx: 0,
+	posy: 0
+}, {
+	name: "sc_item_table",
+	posx: 6,
+	posy: 6
+}, {
+	name: "sc_recycle",
+	posx: 6,
+	posy: 6
+}, {
+	name: "sc_error",
+	posx: 245,
+	posy: 185
+}];
+
+var subNameArr = [{
+	name: "mc_game_out_line",
+	posx: 0,
+	posy: 0
+}, {
+	name: "mc_game_menu_bar",
+	posx: 6,
+	posy: -29
+}, {
+	name: "mc_select_crystal_bar",
+	posx: 382,
+	posy: 116
+}];
+//-------
+// getData
+//-------
+ioRootPath = 'http://test.papayaplay.com:8080/io';
+///////////////////////////////////
+// 로그인이 되어 있는지 안되어 있는지 체크
+///////////////////////////////////        
+this.getUserProfile = function () {
+	var vm = this;
+	$.ajax({
+		url: ioRootPath + "/auth/user.do",
+		crossDomain: true,
+		dataType: 'jsonp'
+	})
+		.success(function (res) {
+			console.log('signin', res)
+			var code = res.ResultCode[0].Code;
+			if (code == "10000") {
+				root.isSignUp = true;
+				root.UIP = res.ResultCode[0].UserIP;
+				root.getGachaInfoDataInit();
+				////
+			} else {
+				root.isSignUp = false;
+				//화면초기화
+				root.initViewPort();
+				//초기 메인띄우기
+				root.screenViewControl(1);
+				//signIn
+				root.checkMainStatus(0);
+			}
+		})
+		.fail(function () {
+			console.log("error");
+		});
+}
+/////////////////////
+// 가챠 오픈 UserData
+/////////////////////
+this.getGachaInfoDataInit = function () {
+	$.ajax({
+		url: ioRootPath + "/secured/json.do?callback=?",
+		type: 'GET',
+		data: {
+			cm: "Service.Gacha.GetGachaUserInfo_DK",
+			serviceid: 2,
+			language: 'en'
+		},
+		crossDomain: true,
+		dataType: 'json'
+	})
+		.success(function (res) {
+			SEASON_TITLE = "";
+			GOT_KEY = 0;
+			isBoxKeyNo0 = true;
+			isBoxKeyNo1 = false;
+			isBoxKeyNo2 = false;
+			ChestBoxSelectNo = 1;
+			KEY_PRICE = 0;
+			MY_TOTAL_BALANCE = 0;
+			DISCOUNT_05 = 0;
+			DISCOUNT_10 = 0;
+			GachaUserInfo = [];
+			GachaSeasonInfo = [];
+			SEVICE_STATUS = 0
+			USER_UNID = 0
+			var code = res.ResultCode[0].Code;
+			console.log('getGachaInfoDataInit', res)
+			if (code === "10000") {
+				//
+				GachaUserInfo = res.GachaUserInfo;
+				GachaSeasonInfo = res.GachaSeasonInfo;
+				//
+				GOT_KEY = res.GachaUserInfo[0].KeyAmount;
+				MY_TOTAL_BALANCE = res.GachaUserInfo[0].UWCBalance;
+				KEY_PRICE = res.KEY_Price[0].KeyPrice;
+				//
+				DISCOUNT_01 = res.KEY_Price[0].Keyx1;
+				DISCOUNT_05 = res.KEY_Price[0].Keyx5;
+				DISCOUNT_10 = res.KEY_Price[0].Keyx10;
+				SEASON_TITLE = GachaSeasonInfo[0].SeasonName;
+				//
+				SEVICE_STATUS = res.MaintenanceSchdule[0].ServiceStatus;
+				//SEVICE_STATUS = 0;
+				USER_UNID = res.GachaUserInfo[0].UNID;
+				//
+				if (KEY_PRICE > 1) {
+					countArr[0] = {
+						value: 1,
+						discount: 0,
+						price: KEY_PRICE
+					};
+					countArr[1] = {
+						price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_05 / 100)),
+						value: 5,
+						discount: DISCOUNT_05,
+					};
+					countArr[2] = {
+						price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100)),
+						value: 10,
+						discount: DISCOUNT_10,
+					};
+					countArr[3] = {
+						price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100)),
+						value: 'CHOOSE',
+						discount: DISCOUNT_10,
+					};
+				}
+				//check maintenance	
+				if (SEVICE_STATUS == 1) {
+					if (USER_UNID == 3675752 || USER_UNID == 3818901 || USER_UNID == 3856766 || USER_UNID == 4605726) {
+						//화면초기화
+						root.initViewPort();
+						//초기 메인띄우기
+						root.screenViewControl(1);
+						//gameStart
+						root.checkMainStatus(2);
+					} else {
+						isStartEnable = "M";
+						//화면초기화
+						root.initViewPort();
+						//초기 메인띄우기
+						root.screenViewControl(1);
+						//gameStart
+						root.checkMainStatus(1);
+					}
+				} else {
+					if (GachaSeasonInfo != '') {
+						//화면초기화
+						root.initViewPort();
+						//초기 메인띄우기
+						root.screenViewControl(1);
+						//
+						root.checkMainStatus(2);
+					} else {
+						isStartEnable = "M";
+						//화면초기화
+						root.initViewPort();
+						//초기 메인띄우기
+						root.screenViewControl(1);
+						//gameStart
+						root.checkMainStatus(1);
+					}
+				}
+			} else {
+				isStartEnable = "M";
+				root.initViewPort();
+				root.screenViewControl(1);
+				root.checkMainStatus(1);
+
+				if (code === "10001") {} else if (code === "10002") {} else if (code === "10003") {} else if (code === "90000") {}
+			}
+		})
+		.error(function (e) {
+			console.log("error");
+		})
+}
+this.getGachaInfoDataReset = function () {
+	$.ajax({
+		url: ioRootPath + "/secured/json.do?callback=?",
+		type: 'GET',
+		data: {
+			cm: "Service.Gacha.GetGachaUserInfo_DK",
+			serviceid: 2,
+			language: 'en'
+		},
+		crossDomain: true,
+		dataType: 'json'
+	})
+		.success(function (res) {
+			SEASON_TITLE = "";
+			GOT_KEY = 0;
+			isBoxKeyNo0 = true;
+			isBoxKeyNo1 = false;
+			isBoxKeyNo2 = false;
+			ChestBoxSelectNo = 1;
+			KEY_PRICE = 0;
+			MY_TOTAL_BALANCE = 0;
+			DISCOUNT_05 = 0;
+			DISCOUNT_10 = 0;
+			GachaUserInfo = [];
+			GachaSeasonInfo = [];
+			SEVICE_STATUS = 0
+			USER_UNID = 0
+			var code = res.ResultCode[0].Code;
+			if (code === "10000") {
+				//
+				GachaUserInfo = res.GachaUserInfo;
+				GachaSeasonInfo = res.GachaSeasonInfo;
+				//
+				GOT_KEY = res.GachaUserInfo[0].KeyAmount;
+				MY_TOTAL_BALANCE = res.GachaUserInfo[0].UWCBalance;
+				KEY_PRICE = res.KEY_Price[0].KeyPrice;
+				//
+				DISCOUNT_01 = res.KEY_Price[0].Keyx1;
+				DISCOUNT_05 = res.KEY_Price[0].Keyx5;
+				DISCOUNT_10 = res.KEY_Price[0].Keyx10;
+				SEASON_TITLE = GachaSeasonInfo[0].SeasonName;
+				//
+				SEVICE_STATUS = res.MaintenanceSchdule[0].ServiceStatus;
+				USER_UNID = res.GachaUserInfo[0].UNID;
+				//
+				if (KEY_PRICE > 1) {
+					countArr[0] = {
+						value: 1,
+						discount: 0,
+						price: KEY_PRICE
+					};
+					countArr[1] = {
+						price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_05 / 100)),
+						value: 5,
+						discount: DISCOUNT_05,
+					};
+					countArr[2] = {
+						price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100)),
+						value: 10,
+						discount: DISCOUNT_10,
+					};
+					countArr[3] = {
+						price: KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100)),
+						value: 'CHOOSE',
+						discount: DISCOUNT_10,
+					};
+				}
+				//check maintenance	
+				if (SEVICE_STATUS == 1) {
+					if (USER_UNID == 3675752 || USER_UNID == 3818901 || USER_UNID == 3856766 || USER_UNID == 4605726) {
+						isStartEnable = '';
+					} else {
+						isStartEnable = "M";
+					}
+				} else {
+					if (GachaSeasonInfo != '') {
+						isStartEnable = '';
+					} else {
+						isStartEnable = "M";
+					}
+				}
+			} else {
+				isStartEnable = "M";
+			}
+		})
+		.error(function (e) {
+			console.log("error");
+		})
+}
+//-----------------------
+// All Screen Controller
+//-----------------------
+this.initViewPort = function () {
+	//mainPage Btn resets
+	root.resetMainBtnHandler();
+	//snb Menu Resets
+	root.subMenuBarEventDisable();
+	for (var i = 0; i < screenNameArr.length; i++) {
+		root[screenNameArr[i].name].visible = false;
+		root[screenNameArr[i].name].x = -1000;
+		root[screenNameArr[i].name].y = -1000;
+	}
+}
+
+this.screenViewControl = function (id) {
+	switch (id) {
+		case 0:
+			root.initViewPort();
+			break;
+		case 1:
+			root.subMenuControl("invisible");
+			root[screenNameArr[0].name].visible = true;
+			root[screenNameArr[0].name].x = screenNameArr[0].posx;
+			root[screenNameArr[0].name].y = screenNameArr[0].posy;
+			break;
+		case 2:
+			root.subMenuControl("visible");
+			root[screenNameArr[1].name].visible = true;
+			root[screenNameArr[1].name].x = screenNameArr[1].posx;
+			root[screenNameArr[1].name].y = screenNameArr[1].posy;
+			//
+			root.checkGameStatus();
+			break;
+		case 3:
+			//buy-key
+			root.subMenuBarEventDisable();
+			root.mc_game_menu_bar.gotoAndPlay('end');
+			root.subMenuControl("partVisible");
+			root[screenNameArr[2].name].visible = true;
+			root[screenNameArr[2].name].x = screenNameArr[2].posx;
+			root[screenNameArr[2].name].y = screenNameArr[2].posy;
+			//
+			root.checkBuyKeyStatus();
+			//
+			break;
+		case 4:
+			//sc_inventory
+			root.subMenuBarEventDisable();
+			root.mc_game_menu_bar.gotoAndPlay('end');
+			root.subMenuControl("partVisible");
+			root[screenNameArr[3].name].visible = true;
+			root[screenNameArr[3].name].x = screenNameArr[3].posx;
+			root[screenNameArr[3].name].y = screenNameArr[3].posy;
+			//	    
+			root.checkInvenStatus();
+			//
+			break;
+		case 5:
+			//sc_item_table
+			root.subMenuBarEventDisable();
+			root.mc_game_menu_bar.gotoAndPlay('end');
+			this.subMenuControl("partVisible");
+			root[screenNameArr[4].name].visible = true;
+			root[screenNameArr[4].name].x = screenNameArr[4].posx;
+			root[screenNameArr[4].name].y = screenNameArr[4].posy;
+			//	    
+			root.checkItemTableStatus();
+			break;
+		case 6:
+			//sc_recycle
+			//sc_item_table
+			root.subMenuBarEventDisable();
+			root.mc_game_menu_bar.gotoAndPlay('end');
+			root.subMenuControl("invisible");
+			root[screenNameArr[5].name].visible = true;
+			root[screenNameArr[5].name].x = screenNameArr[5].posx;
+			root[screenNameArr[5].name].y = screenNameArr[5].posy;
+			//	    
+			root.checkRecycleStatus();
+			break;
+	}
+}
+//
+this.subMenuControl = function (id) {
+	switch (id) {
+		case "invisible":
+			for (var i = 0; i < subNameArr.length; i++) {
+				root[subNameArr[i].name].visible = false
+				root[subNameArr[i].name].x = -1000;
+				root[subNameArr[i].name].y = -1000;
+				console.log('invisible', root[subNameArr[i].name], root[subNameArr[i].name].y)
+			}
+			break;
+		case "visible":
+			for (var i = 0; i < subNameArr.length; i++) {
+				root[subNameArr[i].name].visible = true;
+				root[subNameArr[i].name].x = subNameArr[i].posx;
+				root[subNameArr[i].name].y = subNameArr[i].posy;
+			}
+			root.subMenuBarEventEnable();
+			break;
+		case "partVisible":
+			for (var i = 0; i < subNameArr.length; i++) {
+				if (i == 2) {
+					root[subNameArr[i].name].visible = false
+					root[subNameArr[i].name].x = -1000;
+					root[subNameArr[i].name].y = -1000;
+				} else {
+					root[subNameArr[i].name].visible = true;
+					root[subNameArr[i].name].x = subNameArr[i].posx;
+					root[subNameArr[i].name].y = subNameArr[i].posy;
+				}
+			}
+			root.subMenuBarEventEnable();
+			break;
+	}
+}
+//-----------------
+//메뉴바 버튼 세팅
+//-----------------
+this.subMenuBarEventEnable = function () {
+	var mcGameMenuBar = root.mc_game_menu_bar.mc_menubar_ani
+	var btnInven = mcGameMenuBar.btn_inven
+	var btnTable = mcGameMenuBar.btn_item_table
+	var btnGetKey = mcGameMenuBar.btn_get_key
+	var btnHome = mcGameMenuBar.btn_home
+	var btnGame = mcGameMenuBar.mc_title
+
+	var hit = new createjs.Shape();
+	hit.graphics.beginFill("#000").drawRect(3, 17, 268, 40);
+	btnGame.hitArea = hit;
+	btnGame.cursor = "pointer";
+
+	var txtSeasonTitle = mcGameMenuBar.season_title
+	txtSeasonTitle.text = SEASON_TITLE;
+	//
+	if (GOT_KEY === 0) {
+		btnGetKey.txt.text = "GET KEY";
+	} else {
+		btnGetKey.txt.text = GOT_KEY;
+	}
+	//
+	btnHome.addEventListener("click", function (event) {
+		root.getGachaInfoDataReset();
+		if (isStartEnable === "M") {
+			if (USER_UNID == 3675752 || USER_UNID == 3818901 || USER_UNID == 3856766 || USER_UNID == 4605726) {
+				root.initViewPort();
+				root.screenViewControl(1);
+				root.checkMainStatus(2);
+			} else {
+				root.initViewPort();
+				root.screenViewControl(1);
+				root.checkMainStatus(1);
+			}
+		} else {
+			root.initViewPort();
+			root.screenViewControl(1);
+			root.checkMainStatus(2);
+		}
+		event.currentTarget.removeAllEventListeners();
+	});
+	//
+	btnGame.addEventListener("click", function (event) {
+		root.goBackCheck(2);
+		event.currentTarget.removeAllEventListeners();
+	});
+	//
+	btnGetKey.addEventListener("click", function (event) {
+		root.goBackCheck(3);
+		event.currentTarget.removeAllEventListeners();
+	});
+	//
+	btnInven.addEventListener("click", function (event) {
+		root.goBackCheck(4);
+		event.currentTarget.removeAllEventListeners();
+	});
+	//
+	btnTable.addEventListener("click", function (event) {
+		root.goBackCheck(5);
+		event.currentTarget.removeAllEventListeners();
+	});
+}
+
+this.subMenuBarEventDisable = function () {
+	var mcGameMenuBar = root.mc_game_menu_bar.mc_menubar_ani
+	var btnInven = mcGameMenuBar.btn_inven;
+	var btnTable = mcGameMenuBar.btn_item_table;
+	var btnGetKey = mcGameMenuBar.btn_get_key;
+	var btnHome = mcGameMenuBar.btn_home
+	var btnGame = mcGameMenuBar.mc_title
+	btnInven.removeAllEventListeners();
+	btnTable.removeAllEventListeners();
+	btnGetKey.removeAllEventListeners();
+	btnGame.removeAllEventListeners();
+	btnHome.removeAllEventListeners();
+}
+this.goBackCheck = function (id) {
+	root.getGachaInfoDataReset();
+	if (isStartEnable === "M") {
+		if (USER_UNID == 3675752 || USER_UNID == 3818901 || USER_UNID == 3856766 || USER_UNID == 4605726) {
+			root.initViewPort();
+			root.screenViewControl(id);
+		} else {
+			root.initViewPort();
+			root.screenViewControl(1);
+			root.checkMainStatus(1);
+		}
+	} else {
+		root.initViewPort();
+		root.screenViewControl(id);
+	}
+}
+root.getUserProfile();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[this.stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="main_script" color="#00FFFF" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var root = this;
+//---------
+// main
+//---------
+//0:signIn 1:maintenance 2:start
+this.checkMainStatus = function (id) {
+	this.initMainStat();
+	//sound btn enable
+	this.bgSoundEventsEnable();
+	//this.sc_main.mc_main_btns.mc_sound.removeAllEventListeners();	
+	this.howToPlayEventsEnable();
+	//stat
+	if (id === 0) {
+		this.statSignIn();
+	}
+	if (id === 1) {
+		this.statMaintenance();
+	}
+	if (id === 2) {
+		this.statStart();
+	}
+}
+
+this.initMainStat = function () {
+	var mcBlur = this.sc_main.mc_main_blur_bg;
+	var mcMaintenance = this.sc_main.mc_main_maintenance;
+	var mcSign = this.sc_main.mc_main_signin;
+	var mcMainBg = this.sc_main.mc_main_bg;
+	var mcMainStart = this.sc_main.mc_main_start;
+
+	mcBlur.visible = false;
+	mcBlur.x = -1000;
+	mcBlur.y = -1000;
+
+	mcMaintenance.gotoAndPlay(0);
+	mcMaintenance.x = -1000;
+	mcMaintenance.y = -1000;
+
+	mcSign.gotoAndPlay(0);
+	mcSign.x = -1000;
+	mcSign.y = -1000;
+
+	mcMainBg.gotoAndPlay(0);
+	mcMainBg.x = -1000;
+	mcMainBg.y = -1000;
+
+	mcMainStart.gotoAndPlay(0);
+	mcMainStart.x = -1000;
+	mcMainStart.y = -1000;
+	//
+}
+
+this.statMaintenance = function () {
+	var mcBlur = this.sc_main.mc_main_blur_bg;
+	var mcMaintenance = this.sc_main.mc_main_maintenance;
+	//	
+	mcBlur.visible = true;
+	mcBlur.x = 5;
+	mcBlur.y = 2;
+	//
+	mcMaintenance.x = 244;
+	mcMaintenance.y = 215;
+	mcMaintenance.gotoAndPlay("start");
+	//
+}
+this.statSignIn = function () {
+	var mcBlur = root.sc_main.mc_main_blur_bg;
+	var mcSign = root.sc_main.mc_main_signin;
+	//
+	mcBlur.visible = true;
+	mcBlur.x = 5;
+	mcBlur.y = 2;
+	//
+	mcSign.x = 244;
+	mcSign.y = 126;
+	mcSign.gotoAndPlay('start');
+	//
+	mcSign.mc_signin_ani.btn_sign_in.addEventListener("click", function (event) {
+		location.href = "https://www.papayaplay.com/account/signin.do?redirect_url=https://uwo.papayaplay.com/treasurecove/main.do";
+	});
+}
+
+this.statStart = function () {
+	var mcMainBg = root.sc_main.mc_main_bg;
+	var mcMainStart = root.sc_main.mc_main_start;
+	//
+	mcMainBg.x = 2.55;
+	mcMainBg.y = 3;
+	mcMainBg.gotoAndPlay('start');
+	//
+	mcMainStart.x = 293;
+	mcMainStart.y = 130;
+	mcMainStart.gotoAndPlay('start');
+	//
+	mcMainStart.btn_start.addEventListener("click", function (event) {
+		//화면 초기화
+		root.initViewPort();
+		//게임화면
+		root.screenViewControl(2);
+	});
+}
+
+
+this.bgSoundEventsEnable = function () {
+	root.isBgSoundOn = true;
+	var btnSound = this.sc_main.mc_main_btns.mc_sound
+	btnSound.gotoAndPlay("on");
+
+	var hit = new createjs.Shape();
+	hit.graphics.beginFill("#000").drawRect(0, 0, 30, 30);
+
+	btnSound.hitArea = hit;
+	btnSound.cursor = "pointer";
+
+	btnSound.addEventListener("mouseover", function (event) {
+		if (root.isBgSoundOn) {
+			event.currentTarget.gotoAndPlay("off");
+		} else {
+			event.currentTarget.gotoAndPlay("on");
+		}
+	});
+
+	btnSound.addEventListener("mouseout", function (event) {
+		if (root.isBgSoundOn) {
+			event.currentTarget.gotoAndPlay("on");
+		} else {
+			event.currentTarget.gotoAndPlay("off");
+		}
+	});
+
+	btnSound.addEventListener("click", function (event) {
+		root.isBgSoundOn = !root.isBgSoundOn
+		if (root.isBgSoundOn) {
+			event.currentTarget.gotoAndPlay("off");
+		} else {
+			event.currentTarget.gotoAndPlay("on");
+		}
+	});
+}
+
+this.howToPlayEventsEnable = function () {
+	this.sc_main.mc_main_btns.btn_howto.addEventListener("click", function (event) {
+		location.href = "";
+	});
+}
+
+this.resetMainBtnHandler = function () {
+	root.mc_select_crystal_bar.gotoAndPlay(0);
+	var btnSignIn = root.sc_main.mc_main_signin.mc_signin_ani.btn_sign_in;
+	var btnStart = root.sc_main.mc_main_start.btn_start;
+	var btnSound = root.sc_main.mc_main_btns.mc_sound;
+	var btnHowTo = root.sc_main.mc_main_btns.btn_howto;
+	btnSignIn.removeAllEventListeners();
+	btnStart.removeAllEventListeners();
+	btnSound.removeAllEventListeners();
+	btnHowTo.removeAllEventListeners();
+}]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var root = this;
+//-----
+// Game
+//-----
+this.checkGameStatus = function () {
+	root.mc_game_menu_bar.gotoAndPlay('start');
+	//1,3,5 라디오 버튼은 무비클립에서 호출 (sc_game.frame(start));
+	root.sc_game.gotoAndPlay('start');
+	//크리스탈 호출
+	setTimeout(function (e) {
+		if (GOT_KEY > 0) {
+			root.setRBBoxKey(0);
+			root.setKrystalNo(1);
+		} else {
+			root.setKrystalNo(0)
+		}
+		root.mc_select_crystal_bar.gotoAndPlay('start');
+		root.subSelectBarEventEnable();
+	}, 500);
+}
+//-----------------
+//크리스탈 버튼 세팅
+//-----------------
+this.setRBBoxKey = function (p) {
+	var mc0 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no0;
+	var mc1 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no1;
+	var mc2 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no2;
+
+	if (p === 0) {
+		isBoxKeyNo0 = true;
+		isBoxKeyNo1 = false;
+		isBoxKeyNo2 = false;
+		ChestBoxSelectNo = 1;
+	}
+	if (p === 1) {
+		isBoxKeyNo0 = false;
+		isBoxKeyNo1 = true;
+		isBoxKeyNo2 = false;
+		ChestBoxSelectNo = 3;
+	}
+	if (p === 2) {
+		isBoxKeyNo0 = false;
+		isBoxKeyNo1 = false;
+		isBoxKeyNo2 = true;
+		ChestBoxSelectNo = 5;
+	}
+
+	if (isBoxKeyNo0) {
+		mc0.gotoAndPlay("selected");
+		mc0.no_text.color = "#F0B319"
+	} else {
+		root.setBtnColorChange(0);
+	}
+
+	if (isBoxKeyNo1) {
+		mc1.gotoAndPlay("selected");
+		mc1.no_text.color = "#F0B319"
+	} else {
+		root.setBtnColorChange(1);
+	}
+
+	if (isBoxKeyNo2) {
+		mc2.gotoAndPlay("selected");
+		mc2.no_text.color = "#F0B319"
+	} else {
+		root.setBtnColorChange(2);
+	}
+
+	//박스세팅
+	//setChestBoxInit(ChestBoxSelectNo);
+}
+this.setBtnColorChange = function (i) {
+	var mc0 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no0;
+	var mc1 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no1;
+	var mc2 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no2;
+	if (GOT_KEY <= 0) {
+		eval('mc' + i).gotoAndPlay("disable");
+		eval('mc' + i).no_text.color = "#999999";
+	} else if (GOT_KEY >= 1 && GOT_KEY <= 2) {
+		if (i !== 0) {
+			eval('mc' + i).gotoAndPlay("disable");
+			eval('mc' + i).no_text.color = "#999999";
+		} else {
+			eval('mc' + i).gotoAndPlay("normal");
+			eval('mc' + i).no_text.color = "#fff"
+		}
+	} else if (GOT_KEY >= 3 && GOT_KEY <= 4) {
+		if (i === 2) {
+			eval('mc' + i).gotoAndPlay("disable");
+			eval('mc' + i).no_text.color = "#999999";
+		} else {
+			eval('mc' + i).gotoAndPlay("normal");
+			eval('mc' + i).no_text.color = "#fff"
+		}
+	} else if (GOT_KEY >= 5) {
+		eval('mc' + i).gotoAndPlay("normal");
+		eval('mc' + i).no_text.color = "#fff"
+	}
+}
+this.setKrystalNo = function (no) {
+	var mc = root.sc_game
+	var error_window = mc.mc_error_buy_key;
+	var btn_buy_key = mc.btn_go_buy_key;
+	btn_buy_key.removeAllEventListeners();
+	if (no == 0) {
+		mc.gotoAndPlay("open_krystal0");
+		//error_window
+		//키상점 가기
+		btn_buy_key.addEventListener("click", function (event) {
+			root.goBackCheck(3);
+		});
+	}
+	if (no == 1) {
+		mc.gotoAndPlay("open_krystal1");
+		root.setBreakKrystal();
+	}
+	if (no == 2) {
+		mc.gotoAndPlay("open_krystal3");
+		root.setBreakKrystal();
+	}
+	if (no == 3) {
+		mc.gotoAndPlay("open_krystal5");
+		root.setBreakKrystal();
+	}
+}
+
+this.setDisableRadio = function (p) {
+	var mc0 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no0;
+	var mc1 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no1;
+	var mc2 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no2;
+	mc0.removeAllEventListeners();
+	mc1.removeAllEventListeners();
+	mc2.removeAllEventListeners();
+}
+
+this.subSelectBarEventEnable = function () {
+	var mc0 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no0;
+	var mc1 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no1;
+	var mc2 = root.mc_select_crystal_bar.mc_select_crystal_ani.rb_box_no2;
+
+	mc0.no_text.text = '1';
+	mc1.no_text.text = '3';
+	mc2.no_text.text = '5';
+
+	var hit = new createjs.Shape();
+	hit.graphics.beginFill("#000").drawRect(0, 0, 34, 20);
+
+	for (var i = 0; i < 3; i++) {
+		eval('mc' + i).removeAllEventListeners();
+		if (GOT_KEY <= 0) {
+			eval('mc' + i).gotoAndPlay("disable");
+			eval('mc' + i).no_text.color = "#999999";
+			eval('mc' + i).removeAllEventListeners();
+		} else if (GOT_KEY >= 1 && GOT_KEY <= 2) {
+			if (i !== 0) {
+				eval('mc' + i).gotoAndPlay("disable");
+				eval('mc' + i).no_text.color = "#999999";
+				eval('mc' + i).removeAllEventListeners();
+			} else {
+				eval('mc' + i).hitArea = hit;
+				eval('mc' + i).cursor = "pointer";
+				eval('mc' + i).addEventListener("mouseover", function (event) {
+					var id = Number(event.currentTarget.name.substring(9));
+					if (eval('isBoxKeyNo' + id)) {
+						event.currentTarget.no_text.color = "#fff";
+						event.currentTarget.gotoAndPlay("selectOver")
+					} else {
+						event.currentTarget.no_text.color = "#F0B319";
+						event.currentTarget.gotoAndPlay("over")
+					}
+				});
+				eval('mc' + i).addEventListener("mouseout", function (event) {
+					var id = Number(event.currentTarget.name.substring(9));
+					if (eval('isBoxKeyNo' + id)) {
+						event.currentTarget.no_text.color = "#F0B319";
+						event.currentTarget.gotoAndPlay("selectOut")
+					} else {
+						event.currentTarget.no_text.color = "#fff";
+						event.currentTarget.gotoAndPlay("normal")
+					}
+				});
+				eval('mc' + i).addEventListener("click", function (event) {
+					var id = Number(event.currentTarget.name.substring(9));
+					root.setRBBoxKey(id);
+					//
+					root.setKrystalNo(id + 1);
+				});
+			}
+		} else if (GOT_KEY >= 3 && GOT_KEY <= 4) {
+			if (i === 2) {
+				eval('mc' + i).gotoAndPlay("disable");
+				eval('mc' + i).no_text.color = "#999999";
+				eval('mc' + i).removeAllEventListeners();
+			} else {
+				eval('mc' + i).hitArea = hit;
+				eval('mc' + i).cursor = "pointer";
+				eval('mc' + i).addEventListener("mouseover", function (event) {
+					var id = Number(event.currentTarget.name.substring(9));
+					if (eval('isBoxKeyNo' + id)) {
+						event.currentTarget.no_text.color = "#fff";
+						event.currentTarget.gotoAndPlay("selectOver")
+					} else {
+						event.currentTarget.no_text.color = "#F0B319";
+						event.currentTarget.gotoAndPlay("over")
+					}
+				});
+				eval('mc' + i).addEventListener("mouseout", function (event) {
+					var id = Number(event.currentTarget.name.substring(9));
+					if (eval('isBoxKeyNo' + id)) {
+						event.currentTarget.no_text.color = "#F0B319";
+						event.currentTarget.gotoAndPlay("selectOut")
+					} else {
+						event.currentTarget.no_text.color = "#fff";
+						event.currentTarget.gotoAndPlay("normal")
+					}
+				});
+				eval('mc' + i).addEventListener("click", function (event) {
+					var id = Number(event.currentTarget.name.substring(9));
+					root.setRBBoxKey(id);
+					//
+					root.setKrystalNo(id + 1);
+				});
+			}
+		} else if (GOT_KEY >= 5) {
+			eval('mc' + i).hitArea = hit;
+			eval('mc' + i).cursor = "pointer";
+			eval('mc' + i).addEventListener("mouseover", function (event) {
+				var id = Number(event.currentTarget.name.substring(9));
+				if (eval('isBoxKeyNo' + id)) {
+					event.currentTarget.no_text.color = "#fff";
+					event.currentTarget.gotoAndPlay("selectOver")
+				} else {
+					event.currentTarget.no_text.color = "#F0B319";
+					event.currentTarget.gotoAndPlay("over")
+				}
+			});
+			eval('mc' + i).addEventListener("mouseout", function (event) {
+				var id = Number(event.currentTarget.name.substring(9));
+				if (eval('isBoxKeyNo' + id)) {
+					event.currentTarget.no_text.color = "#F0B319";
+					event.currentTarget.gotoAndPlay("selectOut")
+				} else {
+					event.currentTarget.no_text.color = "#fff";
+					event.currentTarget.gotoAndPlay("normal")
+				}
+			});
+			eval('mc' + i).addEventListener("click", function (event) {
+				var id = Number(event.currentTarget.name.substring(9));
+				root.setRBBoxKey(id);
+				//
+				root.setKrystalNo(id + 1);
+			});
+		}
+	}
+}
+this.setBreakKrystal = function () {
+	var mc = root.sc_game
+	var hit = new createjs.Shape();
+	hit.graphics.beginFill("#000").drawRect(22, 23, 98, 197);
+	for (var i = 0; i < ChestBoxSelectNo; i++) {
+		mc['mc_krystal' + i].removeAllEventListeners();
+
+		mc['mc_krystal' + i].hitArea = hit;
+		mc['mc_krystal' + i].cursor = "pointer";
+		mc['mc_krystal' + i].addEventListener("mouseover", function (event) {
+			for (var a = 0; a < ChestBoxSelectNo; a++) {
+				mc['mc_krystal' + a].gotoAndPlay('over');
+				mc['mc_krystal' + a].mc_krystal_over.gotoAndPlay('start');
+				mc['mc_krystal' + a].mc_krystal_over.mc_game_krystal_ani.gotoAndPlay('start');
+			}
+		});
+
+		mc['mc_krystal' + i].addEventListener("mouseout", function (event) {
+			for (var a = 0; a < ChestBoxSelectNo; a++) {
+				mc['mc_krystal' + a].gotoAndPlay('start');
+				mc['mc_krystal' + a].mc_krystal_over.gotoAndPlay(0);
+				mc['mc_krystal' + a].mc_krystal_over.mc_game_krystal_ani.gotoAndPlay(0);
+			}
+		});
+
+		mc['mc_krystal' + i].addEventListener("click", function (event) {
+			for (var a = 0; a < ChestBoxSelectNo; a++) {
+				mc['mc_krystal' + a].mc_krystal_over.gotoAndPlay(0);
+				mc['mc_krystal' + a].mc_krystal_over.mc_game_krystal_ani.gotoAndPlay(0);
+				mc['mc_krystal' + a].removeAllEventListeners();
+			}
+			var id = event.currentTarget.name.substring(10);
+			getSingleResultItems(id)
+			//상품디테일
+		});
+	}
+}
+///////////////////
+// 오픈 박스 데이타
+///////////////////
+var items = [];
+var desc = [];
+var selectId = 0;
+this.krystalBoxReset = function (id) {
+	var mc = sc_game.mc_box_item_detail
+	for (var i = 0; i < id; i++) {
+		var box = mc['result_containter' + ChestBoxSelectNo]['box' + i]
+		box.removeAllEventListeners();
+	}
+}
+this.setMenuBlocker = function (p) {
+	var mc = root.sc_block;
+	var hit = new createjs.Shape();
+	hit.graphics.beginFill("#000").drawRect(0, 0, 980, 200);
+	mc.hitArea = hit;
+	mc.addEventListener("click", function (event) {});
+	if (p == 'on') {
+		mc.x = 0;
+		mc.y = 0;
+	}
+	if (p == 'off') {
+		mc.x = 1000;
+		mc.y = 1000;
+		mc.removeAllEventListeners();
+	}
+}
+this.setLoadingBar = function (p) {
+	var mc = root.sc_loading
+	mc.x = 0;
+	mc.y = 0;
+	if (p == 'on') {
+		mc.gotoAndPlay('start');
+	}
+	if (p == 'off') {
+		mc.gotoAndPlay('end');
+		setTimeout(function () {
+			mc.x = 1000;
+			mc.y = 1000;
+		}, 400)
+	}
+}
+function getSingleResultItems(id) {
+	items = [];
+	// 상단 버튼 disabled
+	root.setMenuBlocker('on');
+	//로딩바
+	root.setLoadingBar('on');
+
+	$.ajax({
+		url: ioRootPath + "/secured/json.do?callback=?",
+		type: 'GET',
+		data: {
+			cm: "Service.Gacha.OpenGachaBox_DK",
+			serviceid: 2,
+			keyCount: ChestBoxSelectNo,
+			userip: UIP,
+		},
+		crossDomain: true,
+		dataType: 'json',
+		success: function (data) {
+			console.log(data);
+			var code = data.ResultCode[0].Code;
+			GachaUserInfo = [];
+			if (code === "10000") {
+				//로딩바
+				root.setLoadingBar('off');
+				//
+				isOpenedChest = false;
+				items = data.GetNewGachaItem;
+				GachaUserInfo = data.GachaUserInfo;
+				GOT_KEY = data.GachaUserInfo[0].KeyAmount;
+				MY_TOTAL_BALANCE = data.GachaUserInfo[0].UWCBalance;
+
+				if (GOT_KEY === 0) {
+					root.mc_game_menu_bar.mc_menubar_ani.btn_get_key.txt.text = "GET KEY";
+				} else {
+					root.mc_game_menu_bar.mc_menubar_ani.btn_get_key.txt.text = GOT_KEY;
+				}
+
+				if (ChestBoxSelectNo == 1) {
+					root.OpenChestItemLoad(items, id);
+				} else {
+					root.OpenChestAllItemLoad(items, ChestBoxSelectNo);
+				}
+			} else if (code === "10004") {
+				root.setLoadingBar('off');
+				// 상단 버튼 disabled
+				root.setMenuBlocker('off');
+				root.goBackCheck(2);
+				//
+			} else {
+				root.setLoadingBar('off');
+				// 상단 버튼 disabled
+				root.setMenuBlocker('off');
+				location.reload();
+			}
+		},
+		error: function () {
+			console.log("error");
+		}
+	});
+}
+
+this.OpenChestItemLoad = function (arr, id) {
+	var iconBitmap = new createjs.Bitmap(arr[0].IconURL);
+	var itemTier = (arr[0].Tier) - 1;
+	var mc = root.sc_game['mc_krystal' + id]
+	mc.mc_tier_bg.mc_icon_place.removeChildAt(0);
+	mc.mc_tier_bg.mc_icon_place.addChild(iconBitmap);
+	mc.mc_tier_bg.gotoAndStop(itemTier);
+	mc.gotoAndPlay("open");
+	mc.mc_light_bg['tier' + arr[0].Tier].gotoAndPlay('start');
+
+	var timeDelay = NORMAL_TIMER;
+
+	if (Number(items[0].Tier) === 1) {
+		timeDelay = PLA_TIMER;
+	} else if (Number(items[0].Tier) === 2) {
+		timeDelay = GOLD_TIMER;
+	} else {
+		timeDelay = NORMAL_TIMER;
+	}
+
+	setTimeout(function () {
+		root.openItemDetail(arr, ChestBoxSelectNo);
+	}, timeDelay);
+	//
+}
+
+this.OpenChestAllItemLoad = function (arr, id) {
+	desc = [];
+	if (id === 3) {
+		for (var i = 0; i < 3; i++) {
+			var iconBitmap = new createjs.Bitmap(arr[i].IconURL);
+			var itemTier = (arr[i].Tier) - 1;
+			console.log('timeDelay', arr[i].Tier)
+			desc.push(arr[i].Tier);
+			var mc = root.sc_game['mc_krystal' + i]
+			mc.mc_tier_bg.mc_icon_place.removeChildAt(0);
+			mc.mc_tier_bg.mc_icon_place.addChild(iconBitmap);
+			mc.mc_tier_bg.gotoAndStop(itemTier);
+			mc.gotoAndPlay("open");
+			mc.mc_light_bg['tier' + arr[i].Tier].gotoAndPlay('start');
+		}
+		desc.sort(function (a, b) {
+			return a - b
+		});
+		var timeDelay = NORMAL_TIMER;
+		if (Number(desc[0].Tier) === 1) {
+			timeDelay = PLA_TIMER;
+		} else if (Number(desc[0].Tier) === 2) {
+			timeDelay = GOLD_TIMER;
+		} else {
+			timeDelay = NORMAL_TIMER;
+		}
+
+		setTimeout(function () {
+			root.openItemDetail(arr, ChestBoxSelectNo);
+		}, timeDelay);
+	}
+	if (id === 5) {
+		for (var i = 0; i < 5; i++) {
+			var iconBitmap = new createjs.Bitmap(arr[i].IconURL);
+			var itemTier = (arr[i].Tier) - 1;
+			desc.push(arr[i].Tier);
+			var mc = root.sc_game['mc_krystal' + i]
+			mc.mc_tier_bg.mc_icon_place.removeChildAt(0);
+			mc.mc_tier_bg.mc_icon_place.addChild(iconBitmap);
+			mc.mc_tier_bg.gotoAndStop(itemTier);
+			mc.gotoAndPlay("open");
+			mc.mc_light_bg['tier' + arr[i].Tier].gotoAndPlay('start');
+		}
+		desc.sort(function (a, b) {
+			return a - b
+		});
+		var timeDelay = NORMAL_TIMER;
+		if (Number(desc[0].Tier) === 1) {
+			timeDelay = PLA_TIMER;
+		} else if (Number(desc[0].Tier) === 2) {
+			timeDelay = GOLD_TIMER;
+		} else {
+			timeDelay = NORMAL_TIMER;
+		}
+
+		setTimeout(function () {
+			root.openItemDetail(arr, ChestBoxSelectNo);
+		}, timeDelay);
+	}
+
+	console.log('timeDelay', timeDelay)
+	//
+}
+
+this.openItemDetail = function (arr, boxNo) {
+	console.log("openItemDetail", arr, boxNo)
+	//		
+	root.openResetItemDetail();
+
+	//			
+	var mc = root.sc_game.mc_box_item_detail;
+	if (boxNo === 1) {
+		var krystalBox = root.sc_game['mc_krystal' + 0];
+		krystalBox.mc_light_bg['tier' + arr[0].Tier].gotoAndPlay(0);
+		krystalBox.gotoAndPlay('start');
+		var box = mc.result_containter1.box0
+		var iconBitmap = new createjs.Bitmap(arr[0].IconURL);
+		var tier = (arr[0].Tier) - 1;
+
+		box.mc_tier.gotoAndStop(tier);
+		box.mc_tier.mc_icon_place.removeChildAt(0);
+		box.mc_tier.mc_icon_place.addChild(iconBitmap);
+		box.txt_cate.text = (arr[0].CategoryName).toUpperCase();
+		box.txt_title.text = (arr[0].ItemName).toUpperCase();
+		box.txt_desc.text = arr[0].Description1;
+		//
+		mc.btns.visible = true;
+		mc.result_containter1.visible = true;
+		mc.gotoAndPlay('start');
+		root.sc_game.gotoAndPlay('start');
+		root.autoMoveResultsDisable();
+	} else if (boxNo >= 3) {
+		selectId = 0
+		mc.pageNumCont.visible = true;
+		mc['pageClickCont' + ChestBoxSelectNo].visible = true;
+		mc['result_containter' + ChestBoxSelectNo].visible = true;
+		mc.arrows.visible = true;
+		mc.btns.visible = true;
+		var container = mc["result_containter" + ChestBoxSelectNo];
+		for (var i in arr) {
+			var krystalBox = root.sc_game['mc_krystal' + i];
+			krystalBox.mc_light_bg['tier' + arr[i].Tier].gotoAndPlay(0);
+			krystalBox.gotoAndPlay('start');
+			mc["pageClickCont" + ChestBoxSelectNo]["btn_page_no" + i].gotoAndPlay('start');
+
+			var box = mc['result_containter' + ChestBoxSelectNo]['box' + i]
+			var iconBitmap = new createjs.Bitmap(arr[i].IconURL);
+			var tier = (arr[i].Tier) - 1;
+			box.mc_tier.gotoAndStop(tier);
+			box.mc_tier.mc_icon_place.removeChildAt(0);
+			box.mc_tier.mc_icon_place.addChild(iconBitmap);
+			box.txt_cate.text = (arr[i].CategoryName).toUpperCase();
+			box.txt_title.text = (arr[i].ItemName).toUpperCase();
+			box.txt_desc.text = arr[i].Description1;
+			//
+			var pageClickMc = mc["pageClickCont" + ChestBoxSelectNo]["btn_page_no" + i];
+			pageClickMc.removeAllEventListeners();
+			//
+			var hit = new createjs.Shape();
+			hit.graphics.beginFill("#000").drawRect(0, 0, 10, 10);
+			pageClickMc.hitArea = hit;
+			pageClickMc.cursor = "pointer";
+			pageClickMc.addEventListener("mouseover", function (event) {
+				var flagLabel = "over";
+				var id = event.currentTarget.name.substring(11);
+				event.currentTarget.gotoAndPlay(flagLabel);
+				trackDelta = 0;
+			});
+
+			pageClickMc.addEventListener("mouseout", function (event) {
+				var flagLabel = "start";
+				var id = event.currentTarget.name.substring(11);
+				trackDelta = 0;
+				if (Number(selectId) === Number(id)) {
+					mc["pageClickCont" + ChestBoxSelectNo]["btn_page_no" + selectId].gotoAndPlay('select');
+				} else {
+					event.currentTarget.gotoAndPlay("start");
+				}
+			});
+
+			pageClickMc.addEventListener("click", function (event) {
+				var flagLabel = "select";
+				var id = event.currentTarget.name.substring(11);
+				if (selectId !== id) {
+					selectId = id;
+					trackDelta = 0;
+					setResultArrows(container, id)
+				} else {
+
+				}
+			});
+		}
+		mc.gotoAndPlay('start');
+		root.sc_game.gotoAndPlay('start');
+		//버튼 스크롤바
+		mc.arrows.btn_left_arrow.removeAllEventListeners();
+		mc.arrows.btn_right_arrow.removeAllEventListeners();
+		mc.arrows.btn_left_arrow.addEventListener("click", function (event) {
+			if (selectId < 1) {
+				selectId = (ChestBoxSelectNo - 1);
+			} else {
+				selectId--
+			}
+			trackDelta = 0;
+			setResultArrows(container, selectId)
+		});
+		mc.arrows.btn_right_arrow.addEventListener("click", function (event) {
+			if (selectId > (ChestBoxSelectNo - 2)) {
+				selectId = 0;
+			} else {
+				selectId++
+			}
+			trackDelta = 0;
+			setResultArrows(container, selectId);
+		});
+
+		mc.pageNumCont.txt_no.text = (Number(selectId) + 1) + "/" + ChestBoxSelectNo;
+		mc["pageClickCont" + ChestBoxSelectNo]["btn_page_no" + 0].gotoAndPlay('select');
+		//	
+		//
+		root.autoMoveResultsEnable();
+		//
+	}
+
+
+	mc.btns.btn_go_my_inven.addEventListener('click', function (e) {
+		root.selectId = 0
+		root.autoMoveResultsDisable()
+		// 상단 버튼 disabled
+		root.setMenuBlocker('off');
+		//
+		root.sc_game.mc_box_item_detail.gotoAndPlay(0)
+		//
+		root.goBackCheck(4);
+		e.currentTarget.removeAllEventListeners();
+	})
+	mc.btns.btn_open_more.addEventListener('click', function (e) {
+		root.selectId = 0
+		root.autoMoveResultsDisable()
+		// 상단 버튼 disabled
+		root.setMenuBlocker('off');
+		//
+		root.sc_game.mc_box_item_detail.gotoAndPlay(0)
+		//
+		root.goBackCheck(2);
+		e.currentTarget.removeAllEventListeners();
+	})
+}
+function setResultArrows(mc, id) {
+	var setValue = -((972 * id))
+	createjs.Tween.get(mc, {
+		override: true
+	})
+		.to({
+			x: setValue
+		}, 800, createjs.Ease.quintOut)
+		.call(rightComplete);
+}
+
+function rightComplete() {
+	var mc = root.sc_game.mc_box_item_detail;
+	mc.pageNumCont.txt_no.text = (Number(selectId) + 1) + "/" + ChestBoxSelectNo;
+	for (var i = 0; i < items.length; i++) {
+		if (Number(selectId) !== Number(i)) {
+			mc["pageClickCont" + ChestBoxSelectNo]["btn_page_no" + i].gotoAndPlay('start');
+		} else {
+			mc["pageClickCont" + ChestBoxSelectNo]["btn_page_no" + i].gotoAndPlay('select');
+		}
+	}
+}
+
+var swapInterval = 2;
+var trackDelta = 0;
+
+this.autoMoveResultsEnable = function () {
+	createjs.Ticker.addEventListener("tick", onTick);
+}
+this.autoMoveResultsDisable = function () {
+	trackDelta = 0;
+	createjs.Ticker.removeEventListener("tick", onTick);
+}
+
+function onTick(e) {
+	trackDelta += e.delta;
+	if (trackDelta >= swapInterval * 1200) {
+		console.log(e);
+		if (selectId > (ChestBoxSelectNo - 2)) {
+			selectId = 0;
+		} else {
+			selectId++
+		}
+		setResultArrows(root.sc_game.mc_box_item_detail["result_containter" + ChestBoxSelectNo], selectId)
+		trackDelta = 0;
+	}
+}
+
+this.stage.addEventListener("stagemousemove", resetDelta);
+function resetDelta() {
+	trackDelta = 0;
+}
+/*
+        this.stage.addEventListener("mouseenter", function(e){
+            if(root.sc_game.mc_box_item_detail.arrows.visible){
+                createjs.Tween.get(root.sc_game.mc_box_item_detail.arrows, {override: true}).to({alpha:1}, 400, createjs.Ease.quintOut);
+            }
+        });
+        this.stage.addEventListener("mouseleave", function(e){
+            if(root.sc_game.mc_box_item_detail.arrows.visible){
+                createjs.Tween.get(root.sc_game.mc_box_item_detail.arrows, {override: true}).to({alpha:0}, 800, createjs.Ease.quintIn);
+            }
+		});
+		*/
+
+this.openResetItemDetail = function () {
+	var mc = root.sc_game.mc_box_item_detail;
+	mc.gotoAndPlay(0);
+	mc.pageNumCont.visible = false;
+	mc.pageClickCont5.visible = false;
+	mc.pageClickCont3.visible = false;
+	mc.result_containter5.visible = false;
+	mc.result_containter3.visible = false;
+	mc.result_containter1.visible = false;
+	mc.arrows.visible = false;
+	mc.btns.visible = false;
+}
+
+this.setBreakKrystalDisable = function () {
+	var mc = root.sc_game;
+	for (var i = 0; i < ChestBoxSelectNo; i++) {
+		mc['mc_krystal' + i].removeAllEventListeners();
+	}
+}]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var root = this;
+//-----
+// BuyKey
+//-----				
+this.checkBuyKeyStatus = function () {
+	root.mc_game_menu_bar.gotoAndPlay('start');
+	root.sc_buy_key.gotoAndPlay('start');
+	//
+	root.setBalanceBar();
+	//
+	root.buyKeyEventMc();
+}
+
+this.initBuyKeyStat = function () {
+
+}
+
+this.setBalanceBar = function () {
+	var mc = root.sc_buy_key.mc_balance_bar
+	var txtBalance = mc.txt_mybalance;
+	var txtBalanceValue = mc.txt_balance_value;
+	txtBalance.text = "MY BALANCE";
+	txtBalanceValue.text = MY_TOTAL_BALANCE + " DKC";
+	//
+	mc.btn_recharge.addEventListener("click", function (event) {
+		location.href = "https://www.papayaplay.com/shop/main.do?sid=2";
+	});
+}
+
+this.resetBalanceBar = function () {
+	var mc = root.sc_buy_key.mc_balance_bar
+	var txtBalance = mc.txt_mybalance;
+	var txtBalanceValue = mc.txt_balance_value;
+	txtBalance.text = "";
+	txtBalanceValue.text = "";
+	//
+	mc.btn_recharge.removeAllEventListeners();
+}
+
+this.buyKeyEventMc = function () {
+	for (var i = 0; i < 4; i++) {
+		var mc = root.sc_buy_key["mc_hammer_key" + i];
+		mc.cursor = "pointer";
+		var count = i;
+		mc.mc_key_title.gotoAndStop(count);
+		mc.mc_sale_tag.visible = false;
+
+		if (i !== 3) {
+			if (i === 0) {
+				mc.btn_buy_key.txt_key_value.text = countArr[i].value + " HAMMER";
+				mc.txt_price.text = countArr[i].price + " DKC / EA";
+			} else {
+
+				mc.btn_buy_key.txt_key_value.text = countArr[i].value + " HAMMERS";
+				if (i === 1) {
+					mc.mc_sale_tag.visible = true;
+					mc.mc_sale_tag.txt_sale.text = DISCOUNT_05 + "% off";
+					mc.txt_price.text = countArr[i].price + " DKC / EA";
+				}
+				if (i === 2) {
+					mc.mc_sale_tag.visible = true;
+					mc.mc_sale_tag.txt_sale.text = DISCOUNT_10 + "% off";
+					mc.txt_price.text = countArr[i].price + " DKC / EA";
+				}
+			}
+		} else {
+			mc.mc_sale_tag.visible = true;
+			mc.mc_sale_tag.txt_sale.text = DISCOUNT_10 + "% off";
+			mc.txt_price.text = countArr[i].price + " DKC / EA";
+			mc.btn_buy_key.txt_key_value.text = countArr[i].value;
+		}
+
+		mc.removeAllEventListeners();
+
+		mc.addEventListener("mouseover", function (event) {
+			createjs.Tween.get(event.currentTarget, {
+				override: true
+			}).to({
+				y: 200
+			}, 400, createjs.Ease.quintOut);
+		});
+		mc.addEventListener("mouseout", function (event) {
+			createjs.Tween.get(event.currentTarget, {
+				override: true
+			}).to({
+				y: 210
+			}, 400, createjs.Ease.quintOut);
+		});
+		mc.addEventListener("click", function (event) {
+			var id = Number(event.currentTarget.name.substring(13));
+			if (id !== 3) {
+				root.getBuyKeyClickNormal(id, countArr[id].value, countArr[id].price);
+			} else {
+				root.getBuyKeyClickChoose();
+			}
+			mc.removeAllEventListeners();
+		});
+	}
+}
+//
+this.resetBuyKeyEventMc = function () {
+	for (var i = 0; i < 4; i++) {
+		var mc = root.sc_buy_key["mc_hammer_key" + i];
+		mc.removeAllEventListeners();
+	}
+}
+//일반키 클릭
+this.getBuyKeyClickNormal = function (id, keys, price) {
+	var mc = root.sc_buy_key
+	var buyBoxMc = mc.mc_puchased_box
+	var balanceBox = buyBoxMc.mc_purchased_balance
+
+	mc.gotoAndPlay('puchase');
+	//
+	buyBoxMc.mc_shop_charater.gotoAndPlay('start');
+	//
+	var count = id
+	buyBoxMc.mc_key_title.gotoAndStop(count);
+	buyBoxMc.txt_total_key.text = keys + 'x';
+	buyBoxMc.txt_price_each.text = price + ' DKC / EA';
+	//
+	balanceBox.txt_balance.text = 'MY BALANCE'
+	balanceBox.txt_balance_value.text = MY_TOTAL_BALANCE + ' DKC';
+	balanceBox.txt_total_key.text = keys + 'x HAMMER(S)';
+	var calcTotalBalance = "-" + (price * keys);
+	balanceBox.txt_calc_value.text = calcTotalBalance + ' DKC';
+	//	
+	buyBoxMc.btn_buy_now.removeAllEventListeners();
+
+	buyBoxMc.btn_buy_now.addEventListener("click", function (event) {
+		//sending to loading				
+		//response ok next
+		buyBoxMc.mc_shop_charater.gotoAndPlay(0);
+		mc.gotoAndPlay('loading');
+		root.setGachaPurchaseKey(keys);
+		buyBoxMc.btn_buy_now.removeAllEventListeners();
+	});
+}
+//choose키 클릭
+this.getBuyKeyClickChoose = function () {
+	var mc = root.sc_buy_key;
+	var boxChoice = mc.mc_buy_key_stepper;
+	var keyValue = 11;
+	mc.gotoAndPlay('stepper');
+
+	boxChoice.mc_sale_tag.txt_sale.text = DISCOUNT_10 + '% off';
+	boxChoice.txt_key_value.text = keyValue + 'x';
+	boxChoice.txt_total_price.text = (KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100))) * keyValue;
+
+	boxChoice.btn_step_up.removeAllEventListeners();
+	boxChoice.btn_step_down.removeAllEventListeners();
+	boxChoice.btn_step_get_key.removeAllEventListeners();
+
+	boxChoice.btn_step_up.addEventListener("click", function (event) {
+		if (keyValue < 1000) {
+			keyValue++;
+		}
+		boxChoice.txt_key_value.text = keyValue + 'x';
+		boxChoice.txt_total_price.text = (KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100))) * keyValue;
+	});
+	boxChoice.btn_step_down.addEventListener("click", function (event) {
+		if (keyValue > 11) {
+			keyValue--;
+		} else {
+			keyValue = 11;
+		}
+		boxChoice.txt_key_value.text = keyValue + 'x';
+		boxChoice.txt_total_price.text = (KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100))) * keyValue;
+	});
+
+	boxChoice.btn_step_get_key.addEventListener("click", function (event) {
+		boxChoice.btn_step_up.removeAllEventListeners();
+		boxChoice.btn_step_down.removeAllEventListeners();
+		boxChoice.btn_step_get_key.removeAllEventListeners();
+
+		root.getBuyKeyClickNormal(3, keyValue, KEY_PRICE - (KEY_PRICE * (DISCOUNT_10 / 100)));
+		//
+	});
+}
+
+//purchased 완료
+this.getBuyKeyDone = function (sentKeyValue, value) {
+	var mc = root.sc_buy_key
+	var doneBoxMc = mc.mc_puchased_done
+	doneBoxMc.btn_get_more_key.removeAllEventListeners();
+	doneBoxMc.btn_open_krystal.removeAllEventListeners();
+
+	mc.gotoAndPlay('done');
+	//
+	if (sentKeyValue == 'success') {
+		doneBoxMc.txt.text = 'ALRIGHT! YOU\'VE GOT ' + value + ' HAMMER(S).'
+		if (GOT_KEY == 0) {
+			root.mc_game_menu_bar.mc_menubar_ani.btn_get_key.txt.text = "BUY KEY";
+		} else {
+			root.mc_game_menu_bar.mc_menubar_ani.btn_get_key.txt.text = GOT_KEY;
+		}
+		doneBoxMc.btn_get_more_key.x = 214
+		doneBoxMc.btn_get_more_key.y = 271
+		doneBoxMc.btn_open_krystal.x = 379
+		doneBoxMc.btn_open_krystal.y = 271
+	} else {
+		doneBoxMc.txt.text = 'UNFORUNTELY, YOU DID NOT GET ' + value + ' HAMMER(s). PLEASE TRY AGAIN'
+		if (GOT_KEY == 0) {
+			root.mc_game_menu_bar.mc_menubar_ani.btn_get_key.txt.text = "BUY KEY";
+		} else {
+			root.mc_game_menu_bar.mc_menubar_ani.btn_get_key.txt.text = GOT_KEY;
+		}
+		doneBoxMc.btn_get_more_key.x = 280
+		doneBoxMc.btn_get_more_key.y = 271
+		doneBoxMc.btn_open_krystal.x = 1000
+		doneBoxMc.btn_open_krystal.y = 1000
+	}
+	doneBoxMc.btn_get_more_key.addEventListener("click", function (event) {
+		root.goBackCheck(3)
+		event.currentTarget.removeAllEventListeners();
+	});
+
+	doneBoxMc.btn_open_krystal.addEventListener("click", function (event) {
+		root.goBackCheck(2)
+		event.currentTarget.removeAllEventListeners();
+	});
+}
+
+this.setGachaPurchaseKey = function (keyValue) {
+	//this.mc_buy_key_title.txt.text = "WAITING FOR RESPONSE";		
+	$.ajax({
+		url: ioRootPath + "/secured/json.do?callback=?",
+		type: 'GET',
+		data: {
+			cm: "Service.Gacha.PurhaseGachaKey_DK",
+			serviceid: GachaUserInfo[0].ServiceID,
+			keycount: keyValue,
+			userip: UIP
+		},
+		crossDomain: true,
+		dataType: 'json'
+	})
+		.success(function (res) {
+			GachaUserInfo = [];
+			var code = res.ResultCode[0].Code;
+			console.log('Service.Gacha.PurhaseGachaKey_DK', res)
+			if (code === "10000") {
+				GachaUserInfo = res.GachaUserInfo;
+				GOT_KEY = res.GachaUserInfo[0].KeyAmount;
+				MY_TOTAL_BALANCE = res.GachaUserInfo[0].UWOBalance;
+				//
+				root.getBuyKeyDone('success', keyValue)
+			} else {
+				root.getBuyKeyDone('error', keyValue)
+			}
+		})
+		.error(function (e) {
+			console.log("error");
+		})
+}]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var root = this;
+//-----
+// Inventory
+//-----
+this.checkInvenStatus = function () {
+	root.mc_game_menu_bar.gotoAndPlay('start');
+	root.sc_inventory.gotoAndPlay('start');
+}
+
+this.initInvenStat = function () {
+
+}]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var root = this;
+//-----
+// ItemTable
+//-----
+this.checkItemTableStatus = function () {
+	root.mc_game_menu_bar.gotoAndPlay('start');
+	root.sc_item_table.gotoAndPlay('start');
+}
+
+this.initItemTableStat = function () {
+
+}]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="11" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var root = this;
+//-----
+// ItemTable
+//-----
+this.checkRecycleStatus = function () {
+	root.sc_recycle.gotoAndPlay('start');
+	root.getRecycleOpen();
+}
+
+this.getRecycleOpen = function () {
+	var mc = root.sc_recycle
+	mc.btn_recycle_krystal.removeAllEventListeners();
+
+	var hit = new createjs.Shape();
+	hit.graphics.beginFill("#000").drawRect(20, 8, 160, 250);
+	mc.btn_recycle_krystal.hitArea = hit;
+	mc.btn_recycle_krystal.cursor = "pointer";
+
+	mc.btn_recycle_krystal.addEventListener("mouseover", function (event) {
+		mc.gotoAndPlay('over');
+	});
+	mc.btn_recycle_krystal.addEventListener("mouseout", function (event) {
+		mc.gotoAndPlay(25);
+	});
+	mc.btn_recycle_krystal.addEventListener("click", function (event) {
+		root.getBrokenKrystal();
+		event.currentTarget.removeAllEventListeners();
+	});
+}
+
+this.getResultKrystal = function () {
+	var mc = root.sc_recycle;
+	//데이타를 받아와서
+	mc.mc_tier_bg
+	mc.mc_tier_bg.mc_icon_place
+	mc.mc_light_bg
+	mc.gotoAndPlay('open');
+}
+
+this.getResultDetail = function () {
+	var mc = root.sc_recycle;
+	//	
+	mc.mc_recycle_box_item_detail.result_containter1.box0.
+	mc_tier.gotoAndPlay(tier)
+	txt_cate
+	txt_title
+	txt_desc
+
+	mc_recycle_box_item_detail.btns
+	mc.gotoAndPlay('detail');
+}]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_loading" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Sc_loading" name="sc_loading">
+                                             <matrix>
+                                                  <Matrix ty="-1273.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_block" color="#FF0000" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Sc_block" name="sc_block">
+                                             <matrix>
+                                                  <Matrix ty="-198"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_error" color="#FF4F4F" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Mc_error_page" name="sc_error" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="216" ty="-580.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="mc_game_out_line" color="#FF4F4F" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_out_line" name="mc_game_out_line">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="mc_game_menu_bar" color="#FF0000" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Mc_game_menu_bar" name="mc_game_menu_bar">
+                                             <matrix>
+                                                  <Matrix tx="6" ty="-287"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="mc_select_crystal_bar" color="#669900" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Mc_select_crystal_bar" name="mc_select_crystal_bar" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="382" ty="-138.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_item_table" color="#FF800A" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Sc_itemTable" name="sc_item_table">
+                                             <matrix>
+                                                  <Matrix tx="-980.95" ty="-8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_inventory" color="#9933CC" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Sc_storage" name="sc_inventory">
+                                             <matrix>
+                                                  <Matrix tx="-987.9" ty="-367"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_buy_key" color="#00FFFF" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Sc_buy_key" name="sc_buy_key">
+                                             <matrix>
+                                                  <Matrix tx="-982.95" ty="657.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_recycle" color="#00FFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Sc_recycle" name="sc_recycle">
+                                             <matrix>
+                                                  <Matrix tx="6" ty="1336.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_game" color="#00FFFF" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Sc_game" name="sc_game">
+                                             <matrix>
+                                                  <Matrix tx="969.9" ty="-7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sc_main" color="#669900" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Sc_main" name="sc_main">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="668.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory/>
+</DOMDocument>

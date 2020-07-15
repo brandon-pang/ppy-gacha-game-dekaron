@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_error_txts" itemID="5be4b205-0000083c" lastModified="1541714438">
+  <timeline>
+    <DOMTimeline name="Mc_error_txts">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt_contents" selected="true" fontRenderingMode="standard" width="445" height="117.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3" ty="70.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>WE CAN'T SEEM TO FIND CONTENT &#xD;WHERE YOU LOOKING FOR</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="23.45" size="20" bitmapSize="400" face="RobotoCondensed-Bold" fillColor="#4E350C"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_head" selected="true" fontRenderingMode="standard" width="446" height="31.65" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ERROR!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="31.65" size="24" bitmapSize="480" face="RobotoSlab-Bold" fillColor="#4E350C"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

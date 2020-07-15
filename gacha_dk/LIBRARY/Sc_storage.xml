@@ -1,0 +1,319 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Sc_storage" itemID="5be50b33-00000b50" lastModified="1542762046" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="Sc_storage" currentFrame="43">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="13" name="start" labelType="name" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.mc_storage_title.txt.text="MY STORAGE";]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="13" name="exchange" labelType="name" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.mc_storage_title.txt.text="EXCHANGE";]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="13" name="sendtomail" labelType="name" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.mc_storage_title.txt.text="SEND TO MAIL";]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title">
+                  <matrix>
+                    <Matrix tx="120.05" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title" centerPoint3DX="486" centerPoint3DY="166.8">
+                  <matrix>
+                    <Matrix tx="120.05" ty="149"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title" centerPoint3DX="486" centerPoint3DY="177.8">
+                  <matrix>
+                    <Matrix tx="120.05" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title" centerPoint3DX="486" centerPoint3DY="177.8">
+                  <matrix>
+                    <Matrix tx="120.05" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title" centerPoint3DX="486" centerPoint3DY="166.8">
+                  <matrix>
+                    <Matrix tx="120.05" ty="149"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title" centerPoint3DX="486" centerPoint3DY="177.8">
+                  <matrix>
+                    <Matrix tx="120.05" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title" centerPoint3DX="486" centerPoint3DY="177.8">
+                  <matrix>
+                    <Matrix tx="120.05" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title" centerPoint3DX="486" centerPoint3DY="166.8">
+                  <matrix>
+                    <Matrix tx="120.05" ty="149"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_title" name="mc_storage_title" centerPoint3DX="486" centerPoint3DY="177.8">
+                  <matrix>
+                    <Matrix tx="120.05" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_send_mail_bg">
+                  <matrix>
+                    <Matrix tx="6" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_send_mail_bg" centerPoint3DX="486" centerPoint3DY="331">
+                  <matrix>
+                    <Matrix tx="6" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_exchange_bg">
+                  <matrix>
+                    <Matrix tx="6" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_exchange_bg" centerPoint3DX="486" centerPoint3DY="331">
+                  <matrix>
+                    <Matrix tx="6" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_bg" name="mc_storage_bg">
+                  <matrix>
+                    <Matrix tx="6" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="circIn">
+              <tweens>
+                <Ease target="all" method="circIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_bg" name="mc_storage_bg" centerPoint3DX="486" centerPoint3DY="331">
+                  <matrix>
+                    <Matrix tx="6" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_inventory/Mc_storage_bg" name="mc_storage_bg" centerPoint3DX="486" centerPoint3DY="331">
+                  <matrix>
+                    <Matrix tx="6" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

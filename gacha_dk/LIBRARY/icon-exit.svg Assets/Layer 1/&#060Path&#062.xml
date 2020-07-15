@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="icon-exit.svg Assets/Layer 1/&amp;#060Path&amp;#062" itemID="5be4d81d-0000095f" lastModified="1541724189">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFDF7"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!68 32[74 1 50 1!50 1[28 0 11 20!11 20[-18 52 22 58!22 58[63 63 68 32"/>
+                    <Edge cubics="!68 32(;76,-12 31,-4 11,20q68 32Q74 1q50 1Q28 0q11 20);"/>
+                    <Edge cubics="!11 20(;-29,64 61,72 68,32q11 20Q-18 52q22 58Q63 63q68 32);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

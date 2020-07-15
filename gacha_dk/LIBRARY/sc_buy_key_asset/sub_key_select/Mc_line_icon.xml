@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_buy_key_asset/sub_key_select/Mc_line_icon" itemID="5be4d985-000009a6" lastModified="1541724549">
+  <timeline>
+    <DOMTimeline name="Mc_line_icon">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4861 17S2|5080 21!5080 21|4351 21!4351 21[2585 30 760 21!760 21|0 21!0 21|215 17!215 17|162 16!162 16|324 15!324 15[2501 -15 4746 15!4746 15|5080 15!5080 15[5008 17 4861 17"/>
+                    <Edge cubics="!4861 17(;4933,19 5005,19 5080,21p4861 17q5080 21);"/>
+                    <Edge cubics="!5080 21(;5080,21 4351,21 4351,21p5080 21q4351 21);"/>
+                    <Edge cubics="!4351 21(;3173,27 1977,27 760,21q4351 21Q2585 30q760 21);"/>
+                    <Edge cubics="!760 21(;760,21 0,21 0,21q760 21 0 21);"/>
+                    <Edge cubics="!0 21(;71,19 144,19 215,17q0 21 215 17);"/>
+                    <Edge cubics="!215 17(;198,17 180,17 162,16q215 17 162 16);"/>
+                    <Edge cubics="!162 16(;161,15 324,15 324,15q162 16 324 15);"/>
+                    <Edge cubics="!324 15(;1775,-5 3250,-5 4746,15q324 15Q2501 -15q4746 15);"/>
+                    <Edge cubics="!4746 15(;4746,15 5080,15 5080,15q4746 15 5080 15);"/>
+                    <Edge cubics="!5080 15(;5008,17 4935,17 4861,17q5080 15Q5008 17q4861 17);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

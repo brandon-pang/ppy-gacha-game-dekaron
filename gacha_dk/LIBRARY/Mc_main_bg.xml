@@ -1,0 +1,235 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_main_bg" itemID="5be2738c-000000e7" lastModified="1541621765">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="Mc_main_bg" currentFrame="143">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 1.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 3.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 5.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 7.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 9.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 11.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 13.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 15.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 17.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 19.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 21.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 23.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 25.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 27.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 29.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 31.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 33.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 35.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 37.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 39.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 41.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 43.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 45.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 47.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 49.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 51.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 53.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 55.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 57.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 59.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 61.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="85" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 63.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 65.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="91" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 67.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 69.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 71.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="100" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 73.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 75.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="106" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 77.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="109" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 79.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="112" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 81.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="115" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 83.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="118" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 85.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="121" duration="23" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="video/레이어 87.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

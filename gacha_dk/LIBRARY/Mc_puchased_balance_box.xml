@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_puchased_balance_box" itemID="5be5ee24-000004f5" lastModified="1541795444">
+  <timeline>
+    <DOMTimeline name="Mc_puchased_balance_box">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#92640D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2 1621|4240 1621!2 682|4240 682"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="14.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2.1" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MY BALANCE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="14.1" bitmapSize="240" face="RobotoCondensed-Bold" fillColor="#303030"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="14.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="51.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100x HAMMERS</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="14.1" bitmapSize="240" face="RobotoCondensed-Bold" fillColor="#303030"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" width="208" height="53.25" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="96.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>By selecting “Get Hammers” you agree to purchase in accordance with the Terms of Service and User Agreement. Hammers are non-refundable.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="11.75" size="10" bitmapSize="200" face="RobotoCondensed-Regular" fillColor="#303030"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="14.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="110" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100,000 DKC</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="14.1" bitmapSize="240" face="RobotoCondensed-Bold" fillColor="#303030"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="14.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="110" ty="51.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>-5000 DKC</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="14.1" bitmapSize="240" face="RobotoCondensed-Bold" fillColor="#6C148A"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

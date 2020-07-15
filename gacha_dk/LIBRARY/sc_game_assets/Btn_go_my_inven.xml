@@ -1,0 +1,137 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_game_assets/Btn_go_my_inven" itemID="5bf22956-000022a5" symbolType="button" lastModified="1542773918">
+  <timeline>
+    <DOMTimeline name="Btn_go_my_inven" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="112.05" height="21.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="54" ty="16.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MY STORAGE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="21.1" size="16" bitmapSize="320" face="RobotoSlab-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="112.05" height="21.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="54" ty="16.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MY STORAGE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="21.1" size="16" bitmapSize="320" face="RobotoSlab-Bold" fillColor="#FFCC00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="112.05" height="21.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="54" ty="16.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MY STORAGE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="21.1" size="16" bitmapSize="320" face="RobotoSlab-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="20" ty="18"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FCEEEE"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!555 97|353 97!353 97|353 215!353 215[353 227 341 227!341 227|211 227!211 227[207 227 203 223!203 223[199 220 199 215!199 215|199 97!199 97|0 97!0 97|0 363!0 363|555 363!555 363|555 97!0 72|558 72!558 72[554 45 542 28!542 28[527 6 492
+ 0!492 0|66 0!66 0[34 8 15 29!15 29[3 48 0 72!290 154|298 178!298 178|258 178!258 178|264 154!264 154[258 146 258 140!258 140[258 120 278 120!278 120[286 120 292 126!292 126[298 132 298 140!298 140[298 146 290 154!330 97|226 97!226 97
+|226 200!226 200|330 200!330 200|330 97"/>
+                        <Edge cubics="!290 154(;290,154 298,178 298,178p290 154q298 178);"/>
+                        <Edge cubics="!298 178(;298,178 258,178 258,178p298 178q258 178);"/>
+                        <Edge cubics="!258 178(;258,178 264,154 264,154p258 178q264 154);"/>
+                        <Edge cubics="!264 154(;261,150 258,147 258,140q264 154Q258 146q258 140);"/>
+                        <Edge cubics="!258 140(;258,130 265,120 278,120q258 140Q258 120q278 120);"/>
+                        <Edge cubics="!278 120(;288,120 298,129 298,140q278 120Q286 120q292 126Q298 132q298 140);"/>
+                        <Edge cubics="!298 140(;298,147 294,150 290,154q298 140Q298 146q290 154);"/>
+                        <Edge cubics="!330 97(;330,97 226,97 226,97p330 97q226 97);"/>
+                        <Edge cubics="!226 97(;226,97 226,200 226,200q226 97 226 200);"/>
+                        <Edge cubics="!226 200(;226,200 330,200 330,200q226 200 330 200);"/>
+                        <Edge cubics="!558 72(;555,54 550,40 542,28q558 72Q554 45q542 28);"/>
+                        <Edge cubics="!542 28(;532,14 514,4 492,0q542 28Q527 6q492 0);"/>
+                        <Edge cubics="!492 0(;492,0 66,0 66,0q492 0 66 0);"/>
+                        <Edge cubics="!66 0(;43,6 28,15 15,29q66 0Q34 8q15 29);"/>
+                        <Edge cubics="!15 29(;8,40 2,56 0,72q15 29Q3 48q0 72);"/>
+                        <Edge cubics="!555 97(;555,97 353,97 353,97q555 97 353 97);"/>
+                        <Edge cubics="!353 97(;353,97 353,215 353,215q353 97 353 215);"/>
+                        <Edge cubics="!353 215(;353,221 348,227 341,227q353 215Q353 227q341 227);"/>
+                        <Edge cubics="!341 227(;341,227 211,227 211,227q341 227 211 227);"/>
+                        <Edge cubics="!211 227(;205,227 199,221 199,215q211 227Q207 227q203 223Q199 220q199 215);"/>
+                        <Edge cubics="!199 215(;199,215 199,97 199,97q199 215 199 97);"/>
+                        <Edge cubics="!199 97(;199,97 0,97 0,97q199 97 0 97);"/>
+                        <Edge cubics="!0 97(;0,97 0,363 0,363q0 97 0 363);"/>
+                        <Edge cubics="!0 363(;0,363 555,363 555,363q0 363 555 363);"/>
+                        <Edge cubics="!555 363(;555,363 555,97 555,97q555 363 555 97);"/>
+                        <Edge cubics="!330 200(;330,200 330,97 330,97q330 200 330 97);"/>
+                        <Edge cubics="!0 72(;0,72 558,72 558,72q0 72 558 72);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/bottom-mystorage.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/bottom-mystorage.png"/>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/hoverstatement-bottom-openmore.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_game_assets/bottom-mystorage.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

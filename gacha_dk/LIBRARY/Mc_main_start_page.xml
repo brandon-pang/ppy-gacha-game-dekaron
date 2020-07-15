@@ -1,0 +1,149 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_main_start_page" itemID="5be3ac14-00000741" lastModified="1542053190" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Mc_main_start_page" currentFrame="25">
+      <layers>
+        <DOMLayer name="action" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="23" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mc_main_title" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_main_title" name="mc_main_title">
+                  <matrix>
+                    <Matrix tx="-5" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195.5" y="133.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="16" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_main_title" name="mc_main_title" centerPoint3DX="191" centerPoint3DY="202.5">
+                  <matrix>
+                    <Matrix a="0.697128295898438" d="0.697128295898438" tx="54.25" ty="108.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195.5" y="133.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_main_title" name="mc_main_title" centerPoint3DX="191" centerPoint3DY="126.5">
+                  <matrix>
+                    <Matrix tx="-5" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195.5" y="133.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_main_title" name="mc_main_title" centerPoint3DX="191" centerPoint3DY="126.5">
+                  <matrix>
+                    <Matrix a="1.08355712890625" d="1.08355712890625" tx="-21.3" ty="-19.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195.5" y="133.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.7109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_main_title" name="mc_main_title" centerPoint3DX="191" centerPoint3DY="126.5">
+                  <matrix>
+                    <Matrix tx="-5" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195.5" y="133.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn_start" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Btn_start" name="btn_start" symbolType="button">
+                  <matrix>
+                    <Matrix tx="58" ty="330.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Btn_start" name="btn_start" symbolType="button" centerPoint3DX="200" centerPoint3DY="377.45">
+                  <matrix>
+                    <Matrix tx="58" ty="330.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Btn_start" name="btn_start" selected="true" symbolType="button" centerPoint3DX="200" centerPoint3DY="377.45">
+                  <matrix>
+                    <Matrix tx="58" ty="330.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

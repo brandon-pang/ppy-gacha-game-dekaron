@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_error_buy_key" itemID="5bede74a-0000146c" lastModified="1542317898">
+  <timeline>
+    <DOMTimeline name="Mc_error_buy_key">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_sign_line">
+                  <matrix>
+                    <Matrix tx="118.7" ty="146.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.3" y="0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txts" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_error/Mc_error_txts" name="txts" selected="true">
+                  <matrix>
+                    <Matrix tx="18" ty="98.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="225" y="95.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mc_error_icon" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_error/Mc_error_icon">
+                  <matrix>
+                    <Matrix tx="222" ty="30.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20" y="29"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mc_warning_bg" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_warning_bg">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

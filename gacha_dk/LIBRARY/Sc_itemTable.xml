@@ -1,0 +1,119 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Sc_itemTable" itemID="5be50fe8-00000b7b" lastModified="1541739635" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="Sc_itemTable" currentFrame="15">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="13" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_item_table/Mc_item_table" name="mc_item_table">
+                  <matrix>
+                    <Matrix tx="114.55" ty="147.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_item_table/Mc_item_table" name="mc_item_table" centerPoint3DX="480.5" centerPoint3DY="154.55">
+                  <matrix>
+                    <Matrix tx="114.55" ty="136.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_item_table/Mc_item_table" name="mc_item_table" centerPoint3DX="480.5" centerPoint3DY="165.55">
+                  <matrix>
+                    <Matrix tx="114.55" ty="147.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="365.95" y="17.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_item_table/Mc_item_table_bg">
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="circIn">
+              <tweens>
+                <Ease target="all" method="circIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_item_table/Mc_item_table_bg" centerPoint3DX="480" centerPoint3DY="325">
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_item_table/Mc_item_table_bg" centerPoint3DX="480" centerPoint3DY="325">
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

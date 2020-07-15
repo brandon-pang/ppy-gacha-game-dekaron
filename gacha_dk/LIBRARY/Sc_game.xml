@@ -1,0 +1,621 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Sc_game" itemID="5be4b7e1-0000089a" lastModified="1542778856" lastUniqueIdentifier="13">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="Sc_game" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;487&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Layer_5" color="#009999" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="6" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="15" name="open_krystal0" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="16" name="open_krystal1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="15" name="open_krystal3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="58" duration="15" name="open_krystal5" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_17" color="#00FFFF" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="74" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_box_item_detail" name="mc_box_item_detail">
+                  <matrix>
+                    <Matrix tx="220" ty="178"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_16" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Btn_go_buy_key" name="btn_go_buy_key" symbolType="button">
+                  <matrix>
+                    <Matrix tx="401" ty="844.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Btn_go_buy_key" name="btn_go_buy_key" symbolType="button">
+                  <matrix>
+                    <Matrix tx="401" ty="412"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="5" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Btn_go_buy_key" name="btn_go_buy_key" symbolType="button" centerPoint3DX="486" centerPoint3DY="436">
+                  <matrix>
+                    <Matrix tx="401" ty="406"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="49" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_15" color="#669900">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_error_buy_key" name="mc_error_buy_key">
+                  <matrix>
+                    <Matrix a="0.680267333984375" d="0.680267333984375" tx="338.7" ty="678.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_error_buy_key" name="mc_error_buy_key" selected="true">
+                  <matrix>
+                    <Matrix a="0.680267333984375" d="0.680267333984375" tx="322.65" ty="239.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_error_buy_key" name="mc_error_buy_key" centerPoint3DX="487.95" centerPoint3DY="339.4">
+                  <matrix>
+                    <Matrix tx="244.95" ty="192.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_error_buy_key" name="mc_error_buy_key" centerPoint3DX="487.95" centerPoint3DY="339.4">
+                  <matrix>
+                    <Matrix a="1.03703308105469" d="1.03703308105469" tx="236" ty="187"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243.05" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_error_buy_key" name="mc_error_buy_key" centerPoint3DX="487.95" centerPoint3DY="339.4">
+                  <matrix>
+                    <Matrix tx="244.95" ty="192.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="49" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="krystal4" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="58" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal4" centerPoint3DX="143" centerPoint3DY="807.15">
+                  <matrix>
+                    <Matrix tx="73" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal4" centerPoint3DX="111" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="41" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal4" centerPoint3DX="111" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="41" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="krystal3" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="58" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal3" centerPoint3DX="893" centerPoint3DY="807.15">
+                  <matrix>
+                    <Matrix tx="823" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal3" centerPoint3DX="861" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="791" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal3" centerPoint3DX="861" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="791" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="krystal2" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="42" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal2" centerPoint3DX="272.9" centerPoint3DY="807.15">
+                  <matrix>
+                    <Matrix tx="202.9" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal2" centerPoint3DX="272.9" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="202.9" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal2" centerPoint3DX="272.9" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="202.9" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal2" centerPoint3DX="298" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="228" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal2" centerPoint3DX="298" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="228" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="krystal1" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="42" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal1" centerPoint3DX="698" centerPoint3DY="807.15">
+                  <matrix>
+                    <Matrix tx="628" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal1" centerPoint3DX="698" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="628" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal1" centerPoint3DX="698" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="628" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal1" centerPoint3DX="673" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="603" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal1" centerPoint3DX="673" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="603" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="regular crystal 1.png" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal0">
+                  <matrix>
+                    <Matrix tx="415" ty="679.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="16" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal0" centerPoint3DX="485" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="415" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal0" centerPoint3DX="485" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="415" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal0" centerPoint3DX="485" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="415" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal0" centerPoint3DX="485" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="415" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicInOut">
+              <tweens>
+                <Ease target="all" method="cubicInOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal0" centerPoint3DX="486" centerPoint3DY="352">
+                  <matrix>
+                    <Matrix tx="416" ty="232"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_open_krystal" name="mc_krystal0" centerPoint3DX="486" centerPoint3DY="344">
+                  <matrix>
+                    <Matrix tx="416" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg_home_screen.jpeg" color="#FF4F4F" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_bg" name="mc_game_bg">
+                  <matrix>
+                    <Matrix tx="6" ty="11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_bg" name="mc_game_bg" centerPoint3DX="486" centerPoint3DY="336">
+                  <matrix>
+                    <Matrix tx="6" ty="11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_bg" name="mc_game_bg" centerPoint3DX="486" centerPoint3DY="336">
+                  <matrix>
+                    <Matrix tx="6" ty="11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="325"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_buy_key_asset/sub_key_select/Mc_sale_tag" itemID="5be4d970-0000099c" lastModified="1542146886">
+  <timeline>
+    <DOMTimeline name="Mc_sale_tag">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt_sale" selected="true" fontRenderingMode="standard" width="84.75" height="17.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.707107543945312" b="-0.70709228515625" c="0.707107543945312" d="0.707107543945312" tx="-10.15" ty="64"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10% OFF</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="17.1" size="13" bitmapSize="260" face="RobotoSlab-Bold" fillColor="#FFEB00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BE2025"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#961B1E"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!280 1459|1333 409!1333 409|1329 406!1329 406|1035 332!1035 332|925 3!925 3|922 0!922 0|9 917!9 917[3 923 3 930!3 930|0 927!0 927|0 1739!0 1739|3 1743!3 1743[3 1739 4 1737"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!4 1737[6 1732 9 1729!9 1729|280 1459"/>
+                    <Edge fillStyle0="2" edges="!4 1737|280 1959!280 1959|280 1459"/>
+                    <Edge cubics="!280 1959(;280,1959 280,1459 280,1459q280 1959 280 1459);"/>
+                    <Edge cubics="!1333 409(;1333,409 1329,406 1329,406p1333 409 1329 406);"/>
+                    <Edge cubics="!1329 406(;1329,406 1035,332 1035,332q1329 406 1035 332);"/>
+                    <Edge cubics="!925 3(;925,3 922,0 922,0q925 3 922 0);"/>
+                    <Edge cubics="!9 917(;5,921 3,926 3,930q9 917Q3 923q3 930);"/>
+                    <Edge cubics="!3 930(;3,930 0,927 0,927q3 930 0 927);"/>
+                    <Edge cubics="!0 1739(;0,1739 3,1743 3,1743q0 1739 3 1743);"/>
+                    <Edge cubics="!9 1729(;9,1729 280,1459 280,1459q9 1729 280 1459);"/>
+                    <Edge cubics="!280 1459(;280,1459 1333,409 1333,409q280 1459 1333 409);"/>
+                    <Edge cubics="!4 1737(;5,1734 7,1731 9,1729q4 1737Q6 1732q9 1729);"/>
+                    <Edge cubics="!3 1743(;3,1740 3,1738 4,1737q3 1743Q3 1739q4 1737);"/>
+                    <Edge cubics="!4 1737(;4,1737 280,1959 280,1959q4 1737 280 1959);"/>
+                    <Edge cubics="!0 927(;0,927 0,1739 0,1739q0 927 0 1739);"/>
+                    <Edge cubics="!1035 332(;1035,332 925,3 925,3q1035 332 925 3);"/>
+                    <Edge cubics="!922 0(;922,0 9,917 9,917q922 0 9 917);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

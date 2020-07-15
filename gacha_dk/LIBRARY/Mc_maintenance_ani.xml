@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_maintenance_ani" itemID="5be49fea-000007fd" lastModified="1541709802">
+  <timeline>
+    <DOMTimeline name="Mc_maintenance_ani">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_warning_bg" name="mc_warning_bg" selected="true">
+                  <transformationPoint>
+                    <Point x="243" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Mc_maintenance_icon" name="mc_maintenance_icon" selected="true">
+                  <matrix>
+                    <Matrix tx="207.95" ty="33.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.6" y="36.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Mc_sign_line" name="mc_sign_line" selected="true">
+                  <matrix>
+                    <Matrix tx="118.7" ty="156"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.3" y="0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Mc_maintenace_txts" name="mc_maintenance_txts" selected="true">
+                  <matrix>
+                    <Matrix tx="17" ty="115.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="226" y="87.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

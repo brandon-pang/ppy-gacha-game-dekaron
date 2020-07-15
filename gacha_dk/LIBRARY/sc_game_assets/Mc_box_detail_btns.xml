@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_game_assets/Mc_box_detail_btns" itemID="5bf23234-000024be" lastModified="1542599221">
+  <timeline>
+    <DOMTimeline name="Mc_box_detail_btns">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Btn_go_my_inven" name="btn_go_my_inven" symbolType="button">
+                  <transformationPoint>
+                    <Point x="90.5" y="31"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Btn_go_open_more" name="btn_open_more" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="210"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="103.25" y="31"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

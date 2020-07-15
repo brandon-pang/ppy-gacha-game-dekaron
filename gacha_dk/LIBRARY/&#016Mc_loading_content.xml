@@ -1,0 +1,207 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="&amp;#016Mc_loading_content" itemID="5bf49eaa-00002de2" lastModified="1542758903" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="&amp;#016Mc_loading_content" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="23" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.gotoAndPlay('start');]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hammerimage.png" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_hammer">
+                  <matrix>
+                    <Matrix tx="95.65" ty="40.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.95" y="59.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_hammer" centerPoint3DX="139.6" centerPoint3DY="99.8">
+                  <matrix>
+                    <Matrix tx="95.65" ty="40.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.95" y="59.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartIn">
+              <tweens>
+                <Ease target="all" method="quartIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_hammer" centerPoint3DX="97.4" centerPoint3DY="90.4">
+                  <matrix>
+                    <Matrix a="0.763504028320312" b="-0.645797729492188" c="0.645797729492188" d="0.763504028320312" tx="25.5" ty="73.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.95" y="112.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_hammer" centerPoint3DX="149.9" centerPoint3DY="108.1">
+                  <matrix>
+                    <Matrix a="0.97821044921875" b="0.207611083984375" c="-0.207611083984375" d="0.97821044921875" tx="119.2" ty="40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="112.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.17"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_hammer" centerPoint3DX="139.6" centerPoint3DY="99.8">
+                  <matrix>
+                    <Matrix tx="95.65" ty="40.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.95" y="112.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Hammering on Krystal..." color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_text" name="loading_text">
+                  <matrix>
+                    <Matrix tx="0.05" ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="15.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_text" name="loading_text" centerPoint3DX="132.55" centerPoint3DY="17.4">
+                  <matrix>
+                    <Matrix tx="0.05" ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="15.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicIn">
+              <tweens>
+                <Ease target="all" method="cubicIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_text" name="loading_text" centerPoint3DX="132.55" centerPoint3DY="17.4">
+                  <matrix>
+                    <Matrix tx="0.05" ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="15.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_text" name="loading_text" centerPoint3DX="132.55" centerPoint3DY="17.4">
+                  <matrix>
+                    <Matrix tx="0.05" ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="15.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.26953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_text" name="loading_text" centerPoint3DX="132.55" centerPoint3DY="17.4">
+                  <matrix>
+                    <Matrix tx="0.05" ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="15.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.26953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_text" name="loading_text" centerPoint3DX="132.55" centerPoint3DY="17.4">
+                  <matrix>
+                    <Matrix tx="0.05" ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="15.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_loading_content_bg">
+                  <matrix>
+                    <Matrix d="1.09744262695312" ty="-7.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="82"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

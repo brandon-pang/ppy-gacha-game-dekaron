@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_buy_key_asset/sub_key_select/Mc_balance_bar" itemID="5be4ec6c-00000a42" lastModified="1542144159">
+  <timeline>
+    <DOMTimeline name="Mc_balance_bar">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/sub_key_select/Mc_coin_icon">
+                  <matrix>
+                    <Matrix tx="127" ty="20.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="txt_mybalance" selected="true" fontRenderingMode="standard" width="111" height="15.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3" ty="22.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MY BALANCE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="15.2" size="13" bitmapSize="260" face="RobotoCondensed-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_balance_value" fontRenderingMode="standard" width="100" height="15.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="153" ty="22.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999,999 DKC</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" indent="1" lineSpacing="0.5" lineHeight="15.2" size="13" bitmapSize="260" face="RobotoCondensed-Bold" fillColor="#FFC43C"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/sub_key_select/Btn_recharge" name="btn_recharge" symbolType="button">
+                  <matrix>
+                    <Matrix tx="267"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="78.5" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#92640D"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|5300 0!5300 0|5300 1200!5300 1200|0 1200!0 1200|0 0"/>
+                    <Edge cubics="!5340 1200(;5340,1200 5340,0 5340,0q5340 1200 5340 0);"/>
+                    <Edge cubics="!8480 0(;8480,0 8480,1200 8480,1200q8480 0 8480 1200);"/>
+                    <Edge cubics="!8480 1200(;8480,1200 5340,1200 5340,1200q8480 1200 5340 1200);"/>
+                    <Edge cubics="!5340 0(;5340,0 8480,0 8480,0q5340 0 8480 0);"/>
+                    <Edge cubics="!0 1200(;0,1200 0,0 0,0q0 1200 0 0);"/>
+                    <Edge cubics="!5300 0(;5300,0 5300,1200 5300,1200q5300 0 5300 1200);"/>
+                    <Edge cubics="!5300 1200(;5300,1200 0,1200 0,1200q5300 1200 0 1200);"/>
+                    <Edge cubics="!0 0(;0,0 5300,0 5300,0q0 0 5300 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

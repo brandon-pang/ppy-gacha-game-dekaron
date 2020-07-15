@@ -1,0 +1,154 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_buy_key_asset/sub_key_puchased/Mc_puchased_box" itemID="5be5e9f4-000004d1" lastModified="1542164699">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="Mc_puchased_box" currentFrame="29">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_7" color="#669900" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/sub_key_puchased/Mc_puchased_balance_box" name="mc_purchased_balance">
+                  <matrix>
+                    <Matrix tx="863.9" ty="262"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="106.05" y="74.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/sub_key_puchased/Btn_buy_now" name="btn_buy_now" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="878" ty="418"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90.5" y="31"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt_total_key" fontRenderingMode="standard" width="100" height="31.65" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="687.9" ty="388.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10x</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="31.65" size="24" bitmapSize="480" face="RobotoSlab-Bold" fillColor="#4E350B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_price_each" fontRenderingMode="standard" width="133.5" height="17.55" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="702.4" ty="453.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>190 DKC / EA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="17.55" size="15" bitmapSize="300" face="RobotoCondensed-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="shop-character.png" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/sub_key_puchased/Mc_shop_character" name="mc_shop_charater">
+                  <matrix>
+                    <Matrix tx="298" ty="141.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="216.5" y="229.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_5" color="#009999">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/sub_key_select/Mc_key_title" name="mc_key_title">
+                  <matrix>
+                    <Matrix tx="692" ty="225"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="78.5" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="shop-hammer.png" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sc_buy_key_asset/shop-confirmation.png">
+                  <matrix>
+                    <Matrix tx="695" ty="253"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hover.png" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#92640D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!17280 6758|21518 6758"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="sc_buy_key_asset/hover.png">
+                  <matrix>
+                    <Matrix tx="383" ty="177"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

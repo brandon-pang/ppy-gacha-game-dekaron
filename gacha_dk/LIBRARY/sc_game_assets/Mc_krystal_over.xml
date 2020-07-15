@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_game_assets/Mc_krystal_over" itemID="5bee367a-00001ef9" lastModified="1542338981" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="Mc_krystal_over" currentFrame="87">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="86" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="88" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.gotoAndPlay('start');]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_krystal_ani" name="mc_game_krystal_ani">
+                  <transformationPoint>
+                    <Point x="70" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="22" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_krystal_ani" name="mc_game_krystal_ani" centerPoint3DX="70" centerPoint3DY="120">
+                  <transformationPoint>
+                    <Point x="70" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="23" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_krystal_ani" name="mc_game_krystal_ani" centerPoint3DX="70" centerPoint3DY="105">
+                  <matrix>
+                    <Matrix ty="-15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="70" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_krystal_ani" name="mc_game_krystal_ani" centerPoint3DX="70" centerPoint3DY="120">
+                  <transformationPoint>
+                    <Point x="70" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="21" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_krystal_ani" name="mc_game_krystal_ani" centerPoint3DX="70" centerPoint3DY="128">
+                  <matrix>
+                    <Matrix ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="70" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Mc_game_krystal_ani" name="mc_game_krystal_ani" selected="true" centerPoint3DX="70" centerPoint3DY="120">
+                  <transformationPoint>
+                    <Point x="70" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

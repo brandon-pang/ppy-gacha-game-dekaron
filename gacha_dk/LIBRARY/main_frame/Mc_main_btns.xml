@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main_frame/Mc_main_btns" itemID="5be3aca7-0000074b" lastModified="1542060186">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="Mc_main_btns">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="main_frame/Mc_sound_on" name="mc_sound">
+                  <matrix>
+                    <Matrix tx="923.4" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="main_frame/Btn_howto" name="btn_howto" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix a="2.08927917480469" d="2.08927917480469"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.05" y="8.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

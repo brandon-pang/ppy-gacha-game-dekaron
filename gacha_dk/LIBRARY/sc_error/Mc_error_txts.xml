@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_error/Mc_error_txts" itemID="5be4b205-0000083c" lastModified="1542318094">
+  <timeline>
+    <DOMTimeline name="Mc_error_txts">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt_contents" selected="true" fontRenderingMode="standard" width="445" height="71.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3" ty="72.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>If you want to break Krystal, buy a hammer.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="23.45" size="20" bitmapSize="400" face="RobotoCondensed-Bold" fillColor="#4E350C"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_head" fontRenderingMode="standard" width="446" height="31.65" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NOT ENOUGH HAMMER!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="31.65" size="24" bitmapSize="480" face="RobotoSlab-Bold" fillColor="#4E350C"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,142 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Mc_puchased_box" itemID="5be5e9f4-000004d1" lastModified="1541795527">
+  <timeline>
+    <DOMTimeline name="Mc_puchased_box">
+      <layers>
+        <DOMLayer name="Layer_7" color="#669900" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_puchased_balance_box">
+                  <matrix>
+                    <Matrix tx="863.9" ty="262"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="106.05" y="74.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="sc_buy_key_asset/bottom-gethammers.png">
+                  <matrix>
+                    <Matrix tx="878" ty="418"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_6" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="30.35" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="687.9" ty="371.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999X</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="30.35" size="23" bitmapSize="460" face="RobotoSlab-Bold" fillColor="#4E350B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="133.5" height="15.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="704.4" ty="443.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>190 DKC / EA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0.5" lineHeight="15.2" size="13" bitmapSize="260" face="RobotoCondensed-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="shop-character.png" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Mc_shop_character">
+                  <matrix>
+                    <Matrix tx="298" ty="141.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="216.5" y="229.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_5" color="#009999">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_buy_key_asset/Mc_key_title">
+                  <matrix>
+                    <Matrix tx="692" ty="225"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="78.5" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="shop-hammer.png" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="shop-hammer.png">
+                  <matrix>
+                    <Matrix tx="695" ty="253"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hover.png" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#92640D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!17280 6758|21518 6758"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="sc_buy_key_asset/hover.png">
+                  <matrix>
+                    <Matrix tx="383" ty="177"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

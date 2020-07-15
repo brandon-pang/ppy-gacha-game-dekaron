@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="icon-help.svg/Layer 1/&amp;#060Path&amp;#062_2" itemID="5be20dd1-00000095" lastModified="1541541329">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062_2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#020A14"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 0[0 20 6 33!6 33|148 198!148 198[142 182 142 166!142 166[19 23 0 0"/>
+                    <Edge cubics="!0 0(;0,8 0,20 6,33q0 0Q0 20q6 33);"/>
+                    <Edge cubics="!6 33(;6,33 148,198 148,198q6 33 148 198);"/>
+                    <Edge cubics="!148 198(;148,198 142,182 142,166q148 198Q142 182q142 166);"/>
+                    <Edge cubics="!142 166(;110,127 19,23 0,0q142 166Q19 23q0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

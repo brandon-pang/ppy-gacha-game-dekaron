@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sc_recycle_assets/Mc_recycle_box_detail_btns" itemID="5bf479f0-00002c69" lastModified="1542748699">
+  <timeline>
+    <DOMTimeline name="Mc_recycle_box_detail_btns">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sc_game_assets/Btn_go_my_inven" name="btn_go_my_inven" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="97"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90.5" y="31"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
